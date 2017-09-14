@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Stocks</title>
+</head>
+<body>
+
+
+    <div  style="width: 100%; color: olive; background-color: whitesmoke; border: 2px whitesmoke; padding: 5px;">
+
+        <h1 align="center">STOCKS</h1>
+        <table width= "35%" align="center" border="1" >
+            <tr>
+                <th colspan="4" align="left">
+                  {{stock}}
+                </th>
+             </tr>
+        <tr>
+            <th>
+                Date
+            </th>
+            <th>
+                Open
+            </th>
+            <th>
+             Close
+            </th>
+            <th>
+                % Change
+            </th>
+        </tr>
+        {% for stockprices in prices %}
+            <tr>
+                <td>
+                    {{ stockprices.stock_date }}
+                </td>
+
+                <td align="center">
+                    {{ stockprices.stock_open }}
+                </td>
+                <td align="center">
+                    {{ stockprices.stock_close }}
+                </td>
+                <td align="center">
+                    {% for change in diff_percentage %}
+                        {% if forloop.counter == forloop.parentloop.counter  %}
+                            {% widthratio change stockprices.stock_open 100 %}
+                        {% endif %}
+                    {% endfor %}
+                </td>
+            </tr>
+        {% endfor %}
+        </table>
+        <h2 align="center">Stock Volume</h2>
+        <table width= "35%" align="center" border="1" >
+
+            <tr>
+                <th colspan="4" align="left">
+                    Top 5 volumes of {{stock}}
+                </th>
+            </tr>
+            <tr>
+                <th>
+                    Date
+                </th>
+                <th>
+                    Volume
+                </th>
+            </tr>
+
+         {% for stockprices in volumelist %}
+            <tr>
+                <td>
+                    {{ stockprices.stock_date }}
+                </td>
+
+                <td align="center">
+                    {{ stockprices.stock_volume }}
+                </td>
+            </tr>
+         {% endfor %}
+        </table>
+
+    </div>
+{# %endfor# % #}
+
+</body>
+</html>

@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Products</title>
+</head>
+<body>
+
+
+
+    <div  style="width: 100%; color: olive; background-color: whitesmoke; border: 2px whitesmoke; padding: 5px;">
+
+        <h1 align="center">STOCKS</h1>
+
+    </div>
+
+ <table border="1" align="center" cellpadding="5px" cellspacing="8"  >
+
+     {% if stocks %}
+         {% for stock in stocks %}
+              <tr>
+                 <td><a href="{% url 'stockdetails' %}?id={{ stock.id }}">{{stock.id}} {{ stock.name }}</a></td>
+
+              </tr>
+         {% endfor %}
+     {% endif %}
+
+ </table>
+</body>
+</html>

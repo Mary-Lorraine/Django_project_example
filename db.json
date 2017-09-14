@@ -1,0 +1,5883 @@
+[{
+	"model": "analysis.stockname",
+	"pk": 1,
+	"fields": {
+		"name": "Microsoft",
+		"created": "2017-07-14T16:05:26.009Z",
+		"updated": "2017-07-14T16:05:26.009Z"
+	}
+}, {
+	"model": "analysis.stockname",
+	"pk": 2,
+	"fields": {
+		"name": "Apple",
+		"created": "2017-07-14T16:05:26.784Z",
+		"updated": "2017-07-14T16:05:26.784Z"
+	}
+}, {
+	"model": "analysis.stockname",
+	"pk": 3,
+	"fields": {
+		"name": "BlackBerry",
+		"created": "2017-07-14T16:05:27.226Z",
+		"updated": "2017-07-14T16:05:27.226Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 1,
+	"fields": {
+		"stock_id": 1,
+		"stock_date": "2017-07-13T00:00:00Z",
+		"stock_open": "71.50",
+		"stock_high": "72.04",
+		"stock_low": "71.31",
+		"stock_close": "71.77",
+		"stock_volume": 20269816,
+		"created": "2017-07-14T16:05:26.362Z",
+		"updated": "2017-07-14T16:05:26.362Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 2,
+	"fields": {
+		"stock_id": 1,
+		"stock_date": "2017-07-12T00:00:00Z",
+		"stock_open": "70.69",
+		"stock_high": "71.28",
+		"stock_low": "70.55",
+		"stock_close": "71.15",
+		"stock_volume": 17750925,
+		"created": "2017-07-14T16:05:26.364Z",
+		"updated": "2017-07-14T16:05:26.364Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 3,
+	"fields": {
+		"stock_id": 1,
+		"stock_date": "2017-07-11T00:00:00Z",
+		"stock_open": "70.11",
+		"stock_high": "70.68",
+		"stock_low": "69.75",
+		"stock_close": "69.99",
+		"stock_volume": 17460022,
+		"created": "2017-07-14T16:05:26.365Z",
+		"updated": "2017-07-14T16:05:26.365Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 4,
+	"fields": {
+		"stock_id": 1,
+		"stock_date": "2017-07-10T00:00:00Z",
+		"stock_open": "69.46",
+		"stock_high": "70.25",
+		"stock_low": "69.20",
+		"stock_close": "69.98",
+		"stock_volume": 15014503,
+		"created": "2017-07-14T16:05:26.367Z",
+		"updated": "2017-07-14T16:05:26.367Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 5,
+	"fields": {
+		"stock_id": 1,
+		"stock_date": "2017-07-07T00:00:00Z",
+		"stock_open": "68.70",
+		"stock_high": "69.84",
+		"stock_low": "68.70",
+		"stock_close": "69.46",
+		"stock_volume": 16878317,
+		"created": "2017-07-14T16:05:26.368Z",
+		"updated": "2017-07-14T16:05:26.368Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 6,
+	"fields": {
+		"stock_id": 1,
+		"stock_date": "2017-07-06T00:00:00Z",
+		"stock_open": "68.27",
+		"stock_high": "68.78",
+		"stock_low": "68.12",
+		"stock_close": "68.57",
+		"stock_volume": 21117572,
+		"created": "2017-07-14T16:05:26.369Z",
+		"updated": "2017-07-14T16:05:26.369Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 7,
+	"fields": {
+		"stock_id": 1,
+		"stock_date": "2017-07-05T00:00:00Z",
+		"stock_open": "68.26",
+		"stock_high": "69.44",
+		"stock_low": "68.22",
+		"stock_close": "69.08",
+		"stock_volume": 21176272,
+		"created": "2017-07-14T16:05:26.371Z",
+		"updated": "2017-07-14T16:05:26.371Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 8,
+	"fields": {
+		"stock_id": 1,
+		"stock_date": "2017-07-03T00:00:00Z",
+		"stock_open": "69.33",
+		"stock_high": "69.60",
+		"stock_low": "68.02",
+		"stock_close": "68.17",
+		"stock_volume": 16165538,
+		"created": "2017-07-14T16:05:26.373Z",
+		"updated": "2017-07-14T16:05:26.373Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 9,
+	"fields": {
+		"stock_id": 1,
+		"stock_date": "2017-06-30T00:00:00Z",
+		"stock_open": "68.78",
+		"stock_high": "69.38",
+		"stock_low": "68.74",
+		"stock_close": "68.93",
+		"stock_volume": 24161068,
+		"created": "2017-07-14T16:05:26.374Z",
+		"updated": "2017-07-14T16:05:26.374Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 10,
+	"fields": {
+		"stock_id": 1,
+		"stock_date": "2017-06-29T00:00:00Z",
+		"stock_open": "69.38",
+		"stock_high": "69.49",
+		"stock_low": "68.09",
+		"stock_close": "68.49",
+		"stock_volume": 28918715,
+		"created": "2017-07-14T16:05:26.375Z",
+		"updated": "2017-07-14T16:05:26.375Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 11,
+	"fields": {
+		"stock_id": 1,
+		"stock_date": "2017-06-28T00:00:00Z",
+		"stock_open": "69.21",
+		"stock_high": "69.84",
+		"stock_low": "68.79",
+		"stock_close": "69.80",
+		"stock_volume": 25806200,
+		"created": "2017-07-14T16:05:26.377Z",
+		"updated": "2017-07-14T16:05:26.377Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 12,
+	"fields": {
+		"stock_id": 1,
+		"stock_date": "2017-06-27T00:00:00Z",
+		"stock_open": "70.11",
+		"stock_high": "70.18",
+		"stock_low": "69.18",
+		"stock_close": "69.21",
+		"stock_volume": 25215128,
+		"created": "2017-07-14T16:05:26.385Z",
+		"updated": "2017-07-14T16:05:26.385Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 13,
+	"fields": {
+		"stock_id": 1,
+		"stock_date": "2017-06-26T00:00:00Z",
+		"stock_open": "71.40",
+		"stock_high": "71.71",
+		"stock_low": "70.44",
+		"stock_close": "70.53",
+		"stock_volume": 19606974,
+		"created": "2017-07-14T16:05:26.386Z",
+		"updated": "2017-07-14T16:05:26.386Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 14,
+	"fields": {
+		"stock_id": 1,
+		"stock_date": "2017-06-23T00:00:00Z",
+		"stock_open": "70.09",
+		"stock_high": "71.25",
+		"stock_low": "69.92",
+		"stock_close": "71.21",
+		"stock_volume": 27617291,
+		"created": "2017-07-14T16:05:26.388Z",
+		"updated": "2017-07-14T16:05:26.388Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 15,
+	"fields": {
+		"stock_id": 1,
+		"stock_date": "2017-06-22T00:00:00Z",
+		"stock_open": "70.54",
+		"stock_high": "70.59",
+		"stock_low": "69.71",
+		"stock_close": "70.26",
+		"stock_volume": 22965738,
+		"created": "2017-07-14T16:05:26.389Z",
+		"updated": "2017-07-14T16:05:26.389Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 16,
+	"fields": {
+		"stock_id": 1,
+		"stock_date": "2017-06-21T00:00:00Z",
+		"stock_open": "70.21",
+		"stock_high": "70.62",
+		"stock_low": "69.94",
+		"stock_close": "70.27",
+		"stock_volume": 19891051,
+		"created": "2017-07-14T16:05:26.391Z",
+		"updated": "2017-07-14T16:05:26.391Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 17,
+	"fields": {
+		"stock_id": 1,
+		"stock_date": "2017-06-20T00:00:00Z",
+		"stock_open": "70.82",
+		"stock_high": "70.87",
+		"stock_low": "69.87",
+		"stock_close": "69.91",
+		"stock_volume": 21512231,
+		"created": "2017-07-14T16:05:26.392Z",
+		"updated": "2017-07-14T16:05:26.392Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 18,
+	"fields": {
+		"stock_id": 1,
+		"stock_date": "2017-06-19T00:00:00Z",
+		"stock_open": "70.50",
+		"stock_high": "70.94",
+		"stock_low": "70.35",
+		"stock_close": "70.87",
+		"stock_volume": 23798268,
+		"created": "2017-07-14T16:05:26.394Z",
+		"updated": "2017-07-14T16:05:26.394Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 19,
+	"fields": {
+		"stock_id": 1,
+		"stock_date": "2017-06-16T00:00:00Z",
+		"stock_open": "69.73",
+		"stock_high": "70.03",
+		"stock_low": "69.22",
+		"stock_close": "70.00",
+		"stock_volume": 48345085,
+		"created": "2017-07-14T16:05:26.395Z",
+		"updated": "2017-07-14T16:05:26.395Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 20,
+	"fields": {
+		"stock_id": 1,
+		"stock_date": "2017-06-15T00:00:00Z",
+		"stock_open": "69.27",
+		"stock_high": "70.21",
+		"stock_low": "68.80",
+		"stock_close": "69.90",
+		"stock_volume": 26068709,
+		"created": "2017-07-14T16:05:26.396Z",
+		"updated": "2017-07-14T16:05:26.396Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 21,
+	"fields": {
+		"stock_id": 1,
+		"stock_date": "2017-06-14T00:00:00Z",
+		"stock_open": "70.91",
+		"stock_high": "71.10",
+		"stock_low": "69.43",
+		"stock_close": "70.27",
+		"stock_volume": 25510685,
+		"created": "2017-07-14T16:05:26.398Z",
+		"updated": "2017-07-14T16:05:26.398Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 22,
+	"fields": {
+		"stock_id": 1,
+		"stock_date": "2017-06-13T00:00:00Z",
+		"stock_open": "70.02",
+		"stock_high": "70.82",
+		"stock_low": "69.96",
+		"stock_close": "70.65",
+		"stock_volume": 25258614,
+		"created": "2017-07-14T16:05:26.399Z",
+		"updated": "2017-07-14T16:05:26.399Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 23,
+	"fields": {
+		"stock_id": 1,
+		"stock_date": "2017-06-12T00:00:00Z",
+		"stock_open": "69.25",
+		"stock_high": "69.94",
+		"stock_low": "68.13",
+		"stock_close": "69.78",
+		"stock_volume": 47761743,
+		"created": "2017-07-14T16:05:26.401Z",
+		"updated": "2017-07-14T16:05:26.401Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 24,
+	"fields": {
+		"stock_id": 1,
+		"stock_date": "2017-06-09T00:00:00Z",
+		"stock_open": "72.04",
+		"stock_high": "72.08",
+		"stock_low": "68.59",
+		"stock_close": "70.32",
+		"stock_volume": 49187396,
+		"created": "2017-07-14T16:05:26.403Z",
+		"updated": "2017-07-14T16:05:26.403Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 25,
+	"fields": {
+		"stock_id": 1,
+		"stock_date": "2017-06-08T00:00:00Z",
+		"stock_open": "72.51",
+		"stock_high": "72.52",
+		"stock_low": "71.50",
+		"stock_close": "71.95",
+		"stock_volume": 24588270,
+		"created": "2017-07-14T16:05:26.404Z",
+		"updated": "2017-07-14T16:05:26.404Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 26,
+	"fields": {
+		"stock_id": 1,
+		"stock_date": "2017-06-07T00:00:00Z",
+		"stock_open": "72.64",
+		"stock_high": "72.77",
+		"stock_low": "71.95",
+		"stock_close": "72.39",
+		"stock_volume": 22301765,
+		"created": "2017-07-14T16:05:26.405Z",
+		"updated": "2017-07-14T16:05:26.405Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 27,
+	"fields": {
+		"stock_id": 1,
+		"stock_date": "2017-06-06T00:00:00Z",
+		"stock_open": "72.30",
+		"stock_high": "72.62",
+		"stock_low": "72.27",
+		"stock_close": "72.52",
+		"stock_volume": 31511065,
+		"created": "2017-07-14T16:05:26.406Z",
+		"updated": "2017-07-14T16:05:26.406Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 28,
+	"fields": {
+		"stock_id": 1,
+		"stock_date": "2017-06-05T00:00:00Z",
+		"stock_open": "71.97",
+		"stock_high": "72.89",
+		"stock_low": "71.81",
+		"stock_close": "72.28",
+		"stock_volume": 33316760,
+		"created": "2017-07-14T16:05:26.408Z",
+		"updated": "2017-07-14T16:05:26.408Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 29,
+	"fields": {
+		"stock_id": 1,
+		"stock_date": "2017-06-02T00:00:00Z",
+		"stock_open": "70.44",
+		"stock_high": "71.86",
+		"stock_low": "70.24",
+		"stock_close": "71.76",
+		"stock_volume": 34770261,
+		"created": "2017-07-14T16:05:26.409Z",
+		"updated": "2017-07-14T16:05:26.409Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 30,
+	"fields": {
+		"stock_id": 1,
+		"stock_date": "2017-06-01T00:00:00Z",
+		"stock_open": "70.24",
+		"stock_high": "70.61",
+		"stock_low": "69.45",
+		"stock_close": "70.10",
+		"stock_volume": 21603601,
+		"created": "2017-07-14T16:05:26.412Z",
+		"updated": "2017-07-14T16:05:26.412Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 31,
+	"fields": {
+		"stock_id": 1,
+		"stock_date": "2017-05-31T00:00:00Z",
+		"stock_open": "70.53",
+		"stock_high": "70.74",
+		"stock_low": "69.81",
+		"stock_close": "69.84",
+		"stock_volume": 30436364,
+		"created": "2017-07-14T16:05:26.417Z",
+		"updated": "2017-07-14T16:05:26.417Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 32,
+	"fields": {
+		"stock_id": 1,
+		"stock_date": "2017-05-30T00:00:00Z",
+		"stock_open": "69.79",
+		"stock_high": "70.41",
+		"stock_low": "69.77",
+		"stock_close": "70.41",
+		"stock_volume": 17072838,
+		"created": "2017-07-14T16:05:26.418Z",
+		"updated": "2017-07-14T16:05:26.418Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 33,
+	"fields": {
+		"stock_id": 1,
+		"stock_date": "2017-05-26T00:00:00Z",
+		"stock_open": "69.80",
+		"stock_high": "70.22",
+		"stock_low": "69.52",
+		"stock_close": "69.96",
+		"stock_volume": 19827923,
+		"created": "2017-07-14T16:05:26.420Z",
+		"updated": "2017-07-14T16:05:26.420Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 34,
+	"fields": {
+		"stock_id": 1,
+		"stock_date": "2017-05-25T00:00:00Z",
+		"stock_open": "68.97",
+		"stock_high": "69.88",
+		"stock_low": "68.91",
+		"stock_close": "69.62",
+		"stock_volume": 21854095,
+		"created": "2017-07-14T16:05:26.421Z",
+		"updated": "2017-07-14T16:05:26.421Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 35,
+	"fields": {
+		"stock_id": 1,
+		"stock_date": "2017-05-24T00:00:00Z",
+		"stock_open": "68.87",
+		"stock_high": "68.88",
+		"stock_low": "68.45",
+		"stock_close": "68.77",
+		"stock_volume": 14666865,
+		"created": "2017-07-14T16:05:26.423Z",
+		"updated": "2017-07-14T16:05:26.423Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 36,
+	"fields": {
+		"stock_id": 1,
+		"stock_date": "2017-05-23T00:00:00Z",
+		"stock_open": "68.72",
+		"stock_high": "68.75",
+		"stock_low": "68.38",
+		"stock_close": "68.68",
+		"stock_volume": 15425824,
+		"created": "2017-07-14T16:05:26.424Z",
+		"updated": "2017-07-14T16:05:26.424Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 37,
+	"fields": {
+		"stock_id": 1,
+		"stock_date": "2017-05-22T00:00:00Z",
+		"stock_open": "67.89",
+		"stock_high": "68.50",
+		"stock_low": "67.50",
+		"stock_close": "68.45",
+		"stock_volume": 16237550,
+		"created": "2017-07-14T16:05:26.425Z",
+		"updated": "2017-07-14T16:05:26.425Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 38,
+	"fields": {
+		"stock_id": 1,
+		"stock_date": "2017-05-19T00:00:00Z",
+		"stock_open": "67.50",
+		"stock_high": "68.10",
+		"stock_low": "67.43",
+		"stock_close": "67.69",
+		"stock_volume": 26961119,
+		"created": "2017-07-14T16:05:26.427Z",
+		"updated": "2017-07-14T16:05:26.427Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 39,
+	"fields": {
+		"stock_id": 1,
+		"stock_date": "2017-05-18T00:00:00Z",
+		"stock_open": "67.40",
+		"stock_high": "68.13",
+		"stock_low": "67.14",
+		"stock_close": "67.71",
+		"stock_volume": 25201274,
+		"created": "2017-07-14T16:05:26.428Z",
+		"updated": "2017-07-14T16:05:26.429Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 40,
+	"fields": {
+		"stock_id": 1,
+		"stock_date": "2017-05-17T00:00:00Z",
+		"stock_open": "68.89",
+		"stock_high": "69.10",
+		"stock_low": "67.43",
+		"stock_close": "67.48",
+		"stock_volume": 30548781,
+		"created": "2017-07-14T16:05:26.430Z",
+		"updated": "2017-07-14T16:05:26.430Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 41,
+	"fields": {
+		"stock_id": 1,
+		"stock_date": "2017-05-16T00:00:00Z",
+		"stock_open": "68.23",
+		"stock_high": "69.44",
+		"stock_low": "68.16",
+		"stock_close": "69.41",
+		"stock_volume": 34956038,
+		"created": "2017-07-14T16:05:26.432Z",
+		"updated": "2017-07-14T16:05:26.432Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 42,
+	"fields": {
+		"stock_id": 1,
+		"stock_date": "2017-05-15T00:00:00Z",
+		"stock_open": "68.14",
+		"stock_high": "68.48",
+		"stock_low": "67.57",
+		"stock_close": "68.43",
+		"stock_volume": 31530301,
+		"created": "2017-07-14T16:05:26.434Z",
+		"updated": "2017-07-14T16:05:26.434Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 43,
+	"fields": {
+		"stock_id": 1,
+		"stock_date": "2017-05-12T00:00:00Z",
+		"stock_open": "68.61",
+		"stock_high": "68.61",
+		"stock_low": "68.04",
+		"stock_close": "68.38",
+		"stock_volume": 18714123,
+		"created": "2017-07-14T16:05:26.438Z",
+		"updated": "2017-07-14T16:05:26.438Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 44,
+	"fields": {
+		"stock_id": 1,
+		"stock_date": "2017-05-11T00:00:00Z",
+		"stock_open": "68.36",
+		"stock_high": "68.73",
+		"stock_low": "68.12",
+		"stock_close": "68.46",
+		"stock_volume": 28789413,
+		"created": "2017-07-14T16:05:26.441Z",
+		"updated": "2017-07-14T16:05:26.442Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 45,
+	"fields": {
+		"stock_id": 1,
+		"stock_date": "2017-05-10T00:00:00Z",
+		"stock_open": "68.99",
+		"stock_high": "69.56",
+		"stock_low": "68.92",
+		"stock_close": "69.31",
+		"stock_volume": 17977830,
+		"created": "2017-07-14T16:05:26.445Z",
+		"updated": "2017-07-14T16:05:26.445Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 46,
+	"fields": {
+		"stock_id": 1,
+		"stock_date": "2017-05-09T00:00:00Z",
+		"stock_open": "68.86",
+		"stock_high": "69.28",
+		"stock_low": "68.68",
+		"stock_close": "69.04",
+		"stock_volume": 22858414,
+		"created": "2017-07-14T16:05:26.447Z",
+		"updated": "2017-07-14T16:05:26.447Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 47,
+	"fields": {
+		"stock_id": 1,
+		"stock_date": "2017-05-08T00:00:00Z",
+		"stock_open": "68.97",
+		"stock_high": "69.05",
+		"stock_low": "68.42",
+		"stock_close": "68.94",
+		"stock_volume": 18566087,
+		"created": "2017-07-14T16:05:26.449Z",
+		"updated": "2017-07-14T16:05:26.449Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 48,
+	"fields": {
+		"stock_id": 1,
+		"stock_date": "2017-05-05T00:00:00Z",
+		"stock_open": "68.90",
+		"stock_high": "69.03",
+		"stock_low": "68.48",
+		"stock_close": "69.00",
+		"stock_volume": 19128782,
+		"created": "2017-07-14T16:05:26.451Z",
+		"updated": "2017-07-14T16:05:26.451Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 49,
+	"fields": {
+		"stock_id": 1,
+		"stock_date": "2017-05-04T00:00:00Z",
+		"stock_open": "69.03",
+		"stock_high": "69.08",
+		"stock_low": "68.64",
+		"stock_close": "68.81",
+		"stock_volume": 21749409,
+		"created": "2017-07-14T16:05:26.453Z",
+		"updated": "2017-07-14T16:05:26.453Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 50,
+	"fields": {
+		"stock_id": 1,
+		"stock_date": "2017-05-03T00:00:00Z",
+		"stock_open": "69.38",
+		"stock_high": "69.38",
+		"stock_low": "68.71",
+		"stock_close": "69.08",
+		"stock_volume": 28927973,
+		"created": "2017-07-14T16:05:26.461Z",
+		"updated": "2017-07-14T16:05:26.462Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 51,
+	"fields": {
+		"stock_id": 1,
+		"stock_date": "2017-05-02T00:00:00Z",
+		"stock_open": "69.71",
+		"stock_high": "69.71",
+		"stock_low": "69.13",
+		"stock_close": "69.30",
+		"stock_volume": 23906119,
+		"created": "2017-07-14T16:05:26.463Z",
+		"updated": "2017-07-14T16:05:26.463Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 52,
+	"fields": {
+		"stock_id": 1,
+		"stock_date": "2017-05-01T00:00:00Z",
+		"stock_open": "68.68",
+		"stock_high": "69.55",
+		"stock_low": "68.50",
+		"stock_close": "69.41",
+		"stock_volume": 31954362,
+		"created": "2017-07-14T16:05:26.465Z",
+		"updated": "2017-07-14T16:05:26.465Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 53,
+	"fields": {
+		"stock_id": 1,
+		"stock_date": "2017-04-28T00:00:00Z",
+		"stock_open": "68.91",
+		"stock_high": "69.14",
+		"stock_low": "67.69",
+		"stock_close": "68.46",
+		"stock_volume": 39548818,
+		"created": "2017-07-14T16:05:26.467Z",
+		"updated": "2017-07-14T16:05:26.467Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 54,
+	"fields": {
+		"stock_id": 1,
+		"stock_date": "2017-04-27T00:00:00Z",
+		"stock_open": "68.15",
+		"stock_high": "68.38",
+		"stock_low": "67.58",
+		"stock_close": "68.27",
+		"stock_volume": 34970953,
+		"created": "2017-07-14T16:05:26.468Z",
+		"updated": "2017-07-14T16:05:26.468Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 55,
+	"fields": {
+		"stock_id": 1,
+		"stock_date": "2017-04-26T00:00:00Z",
+		"stock_open": "68.08",
+		"stock_high": "68.31",
+		"stock_low": "67.62",
+		"stock_close": "67.83",
+		"stock_volume": 26190770,
+		"created": "2017-07-14T16:05:26.470Z",
+		"updated": "2017-07-14T16:05:26.470Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 56,
+	"fields": {
+		"stock_id": 1,
+		"stock_date": "2017-04-25T00:00:00Z",
+		"stock_open": "67.90",
+		"stock_high": "68.04",
+		"stock_low": "67.60",
+		"stock_close": "67.92",
+		"stock_volume": 30242730,
+		"created": "2017-07-14T16:05:26.472Z",
+		"updated": "2017-07-14T16:05:26.472Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 57,
+	"fields": {
+		"stock_id": 1,
+		"stock_date": "2017-04-24T00:00:00Z",
+		"stock_open": "67.48",
+		"stock_high": "67.66",
+		"stock_low": "67.10",
+		"stock_close": "67.53",
+		"stock_volume": 29769976,
+		"created": "2017-07-14T16:05:26.474Z",
+		"updated": "2017-07-14T16:05:26.474Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 58,
+	"fields": {
+		"stock_id": 1,
+		"stock_date": "2017-04-21T00:00:00Z",
+		"stock_open": "65.67",
+		"stock_high": "66.70",
+		"stock_low": "65.45",
+		"stock_close": "66.40",
+		"stock_volume": 32522645,
+		"created": "2017-07-14T16:05:26.477Z",
+		"updated": "2017-07-14T16:05:26.477Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 59,
+	"fields": {
+		"stock_id": 1,
+		"stock_date": "2017-04-20T00:00:00Z",
+		"stock_open": "65.46",
+		"stock_high": "65.75",
+		"stock_low": "65.14",
+		"stock_close": "65.50",
+		"stock_volume": 22299477,
+		"created": "2017-07-14T16:05:26.479Z",
+		"updated": "2017-07-14T16:05:26.479Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 60,
+	"fields": {
+		"stock_id": 1,
+		"stock_date": "2017-04-19T00:00:00Z",
+		"stock_open": "65.65",
+		"stock_high": "65.75",
+		"stock_low": "64.89",
+		"stock_close": "65.04",
+		"stock_volume": 26992771,
+		"created": "2017-07-14T16:05:26.481Z",
+		"updated": "2017-07-14T16:05:26.481Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 61,
+	"fields": {
+		"stock_id": 1,
+		"stock_date": "2017-04-18T00:00:00Z",
+		"stock_open": "65.33",
+		"stock_high": "65.71",
+		"stock_low": "65.16",
+		"stock_close": "65.39",
+		"stock_volume": 15155611,
+		"created": "2017-07-14T16:05:26.483Z",
+		"updated": "2017-07-14T16:05:26.483Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 62,
+	"fields": {
+		"stock_id": 1,
+		"stock_date": "2017-04-17T00:00:00Z",
+		"stock_open": "65.04",
+		"stock_high": "65.49",
+		"stock_low": "65.01",
+		"stock_close": "65.48",
+		"stock_volume": 16689265,
+		"created": "2017-07-14T16:05:26.485Z",
+		"updated": "2017-07-14T16:05:26.485Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 63,
+	"fields": {
+		"stock_id": 1,
+		"stock_date": "2017-04-13T00:00:00Z",
+		"stock_open": "65.29",
+		"stock_high": "65.86",
+		"stock_low": "64.95",
+		"stock_close": "64.95",
+		"stock_volume": 17896483,
+		"created": "2017-07-14T16:05:26.493Z",
+		"updated": "2017-07-14T16:05:26.494Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 64,
+	"fields": {
+		"stock_id": 1,
+		"stock_date": "2017-04-12T00:00:00Z",
+		"stock_open": "65.42",
+		"stock_high": "65.51",
+		"stock_low": "65.11",
+		"stock_close": "65.23",
+		"stock_volume": 17108513,
+		"created": "2017-07-14T16:05:26.495Z",
+		"updated": "2017-07-14T16:05:26.495Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 65,
+	"fields": {
+		"stock_id": 1,
+		"stock_date": "2017-04-11T00:00:00Z",
+		"stock_open": "65.60",
+		"stock_high": "65.61",
+		"stock_low": "64.85",
+		"stock_close": "65.48",
+		"stock_volume": 18791533,
+		"created": "2017-07-14T16:05:26.497Z",
+		"updated": "2017-07-14T16:05:26.498Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 66,
+	"fields": {
+		"stock_id": 1,
+		"stock_date": "2017-04-10T00:00:00Z",
+		"stock_open": "65.61",
+		"stock_high": "65.82",
+		"stock_low": "65.36",
+		"stock_close": "65.53",
+		"stock_volume": 17952742,
+		"created": "2017-07-14T16:05:26.499Z",
+		"updated": "2017-07-14T16:05:26.499Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 67,
+	"fields": {
+		"stock_id": 1,
+		"stock_date": "2017-04-07T00:00:00Z",
+		"stock_open": "65.85",
+		"stock_high": "65.96",
+		"stock_low": "65.44",
+		"stock_close": "65.68",
+		"stock_volume": 14108533,
+		"created": "2017-07-14T16:05:26.500Z",
+		"updated": "2017-07-14T16:05:26.501Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 68,
+	"fields": {
+		"stock_id": 1,
+		"stock_date": "2017-04-06T00:00:00Z",
+		"stock_open": "65.60",
+		"stock_high": "66.06",
+		"stock_low": "65.48",
+		"stock_close": "65.73",
+		"stock_volume": 18103453,
+		"created": "2017-07-14T16:05:26.502Z",
+		"updated": "2017-07-14T16:05:26.502Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 69,
+	"fields": {
+		"stock_id": 1,
+		"stock_date": "2017-04-05T00:00:00Z",
+		"stock_open": "66.30",
+		"stock_high": "66.35",
+		"stock_low": "65.44",
+		"stock_close": "65.56",
+		"stock_volume": 21448594,
+		"created": "2017-07-14T16:05:26.503Z",
+		"updated": "2017-07-14T16:05:26.503Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 70,
+	"fields": {
+		"stock_id": 1,
+		"stock_date": "2017-04-04T00:00:00Z",
+		"stock_open": "65.39",
+		"stock_high": "65.81",
+		"stock_low": "65.28",
+		"stock_close": "65.73",
+		"stock_volume": 12997449,
+		"created": "2017-07-14T16:05:26.505Z",
+		"updated": "2017-07-14T16:05:26.505Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 71,
+	"fields": {
+		"stock_id": 1,
+		"stock_date": "2017-04-03T00:00:00Z",
+		"stock_open": "65.81",
+		"stock_high": "65.94",
+		"stock_low": "65.19",
+		"stock_close": "65.55",
+		"stock_volume": 20400871,
+		"created": "2017-07-14T16:05:26.507Z",
+		"updated": "2017-07-14T16:05:26.507Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 72,
+	"fields": {
+		"stock_id": 1,
+		"stock_date": "2017-03-31T00:00:00Z",
+		"stock_open": "65.65",
+		"stock_high": "66.19",
+		"stock_low": "65.45",
+		"stock_close": "65.86",
+		"stock_volume": 21040331,
+		"created": "2017-07-14T16:05:26.512Z",
+		"updated": "2017-07-14T16:05:26.512Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 73,
+	"fields": {
+		"stock_id": 1,
+		"stock_date": "2017-03-30T00:00:00Z",
+		"stock_open": "65.42",
+		"stock_high": "65.98",
+		"stock_low": "65.36",
+		"stock_close": "65.71",
+		"stock_volume": 15122823,
+		"created": "2017-07-14T16:05:26.518Z",
+		"updated": "2017-07-14T16:05:26.518Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 74,
+	"fields": {
+		"stock_id": 1,
+		"stock_date": "2017-03-29T00:00:00Z",
+		"stock_open": "65.12",
+		"stock_high": "65.50",
+		"stock_low": "64.95",
+		"stock_close": "65.47",
+		"stock_volume": 13618424,
+		"created": "2017-07-14T16:05:26.521Z",
+		"updated": "2017-07-14T16:05:26.521Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 75,
+	"fields": {
+		"stock_id": 1,
+		"stock_date": "2017-03-28T00:00:00Z",
+		"stock_open": "64.96",
+		"stock_high": "65.47",
+		"stock_low": "64.65",
+		"stock_close": "65.29",
+		"stock_volume": 20080358,
+		"created": "2017-07-14T16:05:26.531Z",
+		"updated": "2017-07-14T16:05:26.531Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 76,
+	"fields": {
+		"stock_id": 1,
+		"stock_date": "2017-03-27T00:00:00Z",
+		"stock_open": "64.63",
+		"stock_high": "65.22",
+		"stock_low": "64.35",
+		"stock_close": "65.10",
+		"stock_volume": 18614662,
+		"created": "2017-07-14T16:05:26.533Z",
+		"updated": "2017-07-14T16:05:26.533Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 77,
+	"fields": {
+		"stock_id": 1,
+		"stock_date": "2017-03-24T00:00:00Z",
+		"stock_open": "65.36",
+		"stock_high": "65.45",
+		"stock_low": "64.76",
+		"stock_close": "64.98",
+		"stock_volume": 22617105,
+		"created": "2017-07-14T16:05:26.534Z",
+		"updated": "2017-07-14T16:05:26.534Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 78,
+	"fields": {
+		"stock_id": 1,
+		"stock_date": "2017-03-23T00:00:00Z",
+		"stock_open": "64.94",
+		"stock_high": "65.24",
+		"stock_low": "64.76",
+		"stock_close": "64.87",
+		"stock_volume": 19269203,
+		"created": "2017-07-14T16:05:26.536Z",
+		"updated": "2017-07-14T16:05:26.536Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 79,
+	"fields": {
+		"stock_id": 1,
+		"stock_date": "2017-03-22T00:00:00Z",
+		"stock_open": "64.12",
+		"stock_high": "65.14",
+		"stock_low": "64.12",
+		"stock_close": "65.03",
+		"stock_volume": 20680015,
+		"created": "2017-07-14T16:05:26.537Z",
+		"updated": "2017-07-14T16:05:26.537Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 80,
+	"fields": {
+		"stock_id": 1,
+		"stock_date": "2017-03-21T00:00:00Z",
+		"stock_open": "65.19",
+		"stock_high": "65.50",
+		"stock_low": "64.13",
+		"stock_close": "64.21",
+		"stock_volume": 26640480,
+		"created": "2017-07-14T16:05:26.538Z",
+		"updated": "2017-07-14T16:05:26.538Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 81,
+	"fields": {
+		"stock_id": 1,
+		"stock_date": "2017-03-20T00:00:00Z",
+		"stock_open": "64.91",
+		"stock_high": "65.18",
+		"stock_low": "64.72",
+		"stock_close": "64.93",
+		"stock_volume": 14598083,
+		"created": "2017-07-14T16:05:26.540Z",
+		"updated": "2017-07-14T16:05:26.540Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 82,
+	"fields": {
+		"stock_id": 1,
+		"stock_date": "2017-03-17T00:00:00Z",
+		"stock_open": "64.91",
+		"stock_high": "65.24",
+		"stock_low": "64.68",
+		"stock_close": "64.87",
+		"stock_volume": 49219686,
+		"created": "2017-07-14T16:05:26.541Z",
+		"updated": "2017-07-14T16:05:26.542Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 83,
+	"fields": {
+		"stock_id": 1,
+		"stock_date": "2017-03-16T00:00:00Z",
+		"stock_open": "64.75",
+		"stock_high": "64.76",
+		"stock_low": "64.30",
+		"stock_close": "64.64",
+		"stock_volume": 20674296,
+		"created": "2017-07-14T16:05:26.544Z",
+		"updated": "2017-07-14T16:05:26.544Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 84,
+	"fields": {
+		"stock_id": 1,
+		"stock_date": "2017-03-15T00:00:00Z",
+		"stock_open": "64.55",
+		"stock_high": "64.92",
+		"stock_low": "64.25",
+		"stock_close": "64.75",
+		"stock_volume": 24833810,
+		"created": "2017-07-14T16:05:26.548Z",
+		"updated": "2017-07-14T16:05:26.548Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 85,
+	"fields": {
+		"stock_id": 1,
+		"stock_date": "2017-03-14T00:00:00Z",
+		"stock_open": "64.53",
+		"stock_high": "64.55",
+		"stock_low": "64.15",
+		"stock_close": "64.41",
+		"stock_volume": 14280202,
+		"created": "2017-07-14T16:05:26.550Z",
+		"updated": "2017-07-14T16:05:26.551Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 86,
+	"fields": {
+		"stock_id": 1,
+		"stock_date": "2017-03-13T00:00:00Z",
+		"stock_open": "65.01",
+		"stock_high": "65.20",
+		"stock_low": "64.57",
+		"stock_close": "64.71",
+		"stock_volume": 20100035,
+		"created": "2017-07-14T16:05:26.552Z",
+		"updated": "2017-07-14T16:05:26.552Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 87,
+	"fields": {
+		"stock_id": 1,
+		"stock_date": "2017-03-10T00:00:00Z",
+		"stock_open": "65.11",
+		"stock_high": "65.26",
+		"stock_low": "64.75",
+		"stock_close": "64.93",
+		"stock_volume": 19538245,
+		"created": "2017-07-14T16:05:26.554Z",
+		"updated": "2017-07-14T16:05:26.554Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 88,
+	"fields": {
+		"stock_id": 1,
+		"stock_date": "2017-03-09T00:00:00Z",
+		"stock_open": "65.19",
+		"stock_high": "65.20",
+		"stock_low": "64.48",
+		"stock_close": "64.73",
+		"stock_volume": 19846832,
+		"created": "2017-07-14T16:05:26.556Z",
+		"updated": "2017-07-14T16:05:26.556Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 89,
+	"fields": {
+		"stock_id": 1,
+		"stock_date": "2017-03-08T00:00:00Z",
+		"stock_open": "64.26",
+		"stock_high": "65.08",
+		"stock_low": "64.25",
+		"stock_close": "64.99",
+		"stock_volume": 21510907,
+		"created": "2017-07-14T16:05:26.558Z",
+		"updated": "2017-07-14T16:05:26.558Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 90,
+	"fields": {
+		"stock_id": 1,
+		"stock_date": "2017-03-07T00:00:00Z",
+		"stock_open": "64.19",
+		"stock_high": "64.78",
+		"stock_low": "64.19",
+		"stock_close": "64.40",
+		"stock_volume": 18520987,
+		"created": "2017-07-14T16:05:26.560Z",
+		"updated": "2017-07-14T16:05:26.560Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 91,
+	"fields": {
+		"stock_id": 1,
+		"stock_date": "2017-03-06T00:00:00Z",
+		"stock_open": "63.97",
+		"stock_high": "64.56",
+		"stock_low": "63.81",
+		"stock_close": "64.27",
+		"stock_volume": 18750255,
+		"created": "2017-07-14T16:05:26.561Z",
+		"updated": "2017-07-14T16:05:26.561Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 92,
+	"fields": {
+		"stock_id": 1,
+		"stock_date": "2017-03-03T00:00:00Z",
+		"stock_open": "63.99",
+		"stock_high": "64.28",
+		"stock_low": "63.62",
+		"stock_close": "64.25",
+		"stock_volume": 18139405,
+		"created": "2017-07-14T16:05:26.563Z",
+		"updated": "2017-07-14T16:05:26.563Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 93,
+	"fields": {
+		"stock_id": 1,
+		"stock_date": "2017-03-02T00:00:00Z",
+		"stock_open": "64.69",
+		"stock_high": "64.75",
+		"stock_low": "63.88",
+		"stock_close": "64.01",
+		"stock_volume": 24539597,
+		"created": "2017-07-14T16:05:26.564Z",
+		"updated": "2017-07-14T16:05:26.564Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 94,
+	"fields": {
+		"stock_id": 1,
+		"stock_date": "2017-03-01T00:00:00Z",
+		"stock_open": "64.13",
+		"stock_high": "64.99",
+		"stock_low": "64.02",
+		"stock_close": "64.94",
+		"stock_volume": 26937459,
+		"created": "2017-07-14T16:05:26.566Z",
+		"updated": "2017-07-14T16:05:26.566Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 95,
+	"fields": {
+		"stock_id": 1,
+		"stock_date": "2017-02-28T00:00:00Z",
+		"stock_open": "64.08",
+		"stock_high": "64.20",
+		"stock_low": "63.76",
+		"stock_close": "63.98",
+		"stock_volume": 23239825,
+		"created": "2017-07-14T16:05:26.568Z",
+		"updated": "2017-07-14T16:05:26.568Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 96,
+	"fields": {
+		"stock_id": 1,
+		"stock_date": "2017-02-27T00:00:00Z",
+		"stock_open": "64.54",
+		"stock_high": "64.54",
+		"stock_low": "64.04",
+		"stock_close": "64.23",
+		"stock_volume": 15871507,
+		"created": "2017-07-14T16:05:26.578Z",
+		"updated": "2017-07-14T16:05:26.578Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 97,
+	"fields": {
+		"stock_id": 1,
+		"stock_date": "2017-02-24T00:00:00Z",
+		"stock_open": "64.53",
+		"stock_high": "64.80",
+		"stock_low": "64.14",
+		"stock_close": "64.62",
+		"stock_volume": 21796800,
+		"created": "2017-07-14T16:05:26.580Z",
+		"updated": "2017-07-14T16:05:26.580Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 98,
+	"fields": {
+		"stock_id": 1,
+		"stock_date": "2017-02-23T00:00:00Z",
+		"stock_open": "64.42",
+		"stock_high": "64.73",
+		"stock_low": "64.20",
+		"stock_close": "64.62",
+		"stock_volume": 20273128,
+		"created": "2017-07-14T16:05:26.581Z",
+		"updated": "2017-07-14T16:05:26.581Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 99,
+	"fields": {
+		"stock_id": 1,
+		"stock_date": "2017-02-22T00:00:00Z",
+		"stock_open": "64.33",
+		"stock_high": "64.39",
+		"stock_low": "64.05",
+		"stock_close": "64.36",
+		"stock_volume": 19292651,
+		"created": "2017-07-14T16:05:26.583Z",
+		"updated": "2017-07-14T16:05:26.583Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 100,
+	"fields": {
+		"stock_id": 1,
+		"stock_date": "2017-02-21T00:00:00Z",
+		"stock_open": "64.61",
+		"stock_high": "64.95",
+		"stock_low": "64.45",
+		"stock_close": "64.49",
+		"stock_volume": 20655869,
+		"created": "2017-07-14T16:05:26.585Z",
+		"updated": "2017-07-14T16:05:26.585Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 101,
+	"fields": {
+		"stock_id": 1,
+		"stock_date": "2017-02-17T00:00:00Z",
+		"stock_open": "64.47",
+		"stock_high": "64.69",
+		"stock_low": "64.30",
+		"stock_close": "64.62",
+		"stock_volume": 21248818,
+		"created": "2017-07-14T16:05:26.588Z",
+		"updated": "2017-07-14T16:05:26.588Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 102,
+	"fields": {
+		"stock_id": 1,
+		"stock_date": "2017-02-16T00:00:00Z",
+		"stock_open": "64.74",
+		"stock_high": "65.24",
+		"stock_low": "64.44",
+		"stock_close": "64.52",
+		"stock_volume": 20546345,
+		"created": "2017-07-14T16:05:26.590Z",
+		"updated": "2017-07-14T16:05:26.590Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 103,
+	"fields": {
+		"stock_id": 1,
+		"stock_date": "2017-02-15T00:00:00Z",
+		"stock_open": "64.50",
+		"stock_high": "64.57",
+		"stock_low": "64.16",
+		"stock_close": "64.53",
+		"stock_volume": 17005157,
+		"created": "2017-07-14T16:05:26.593Z",
+		"updated": "2017-07-14T16:05:26.593Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 104,
+	"fields": {
+		"stock_id": 1,
+		"stock_date": "2017-02-14T00:00:00Z",
+		"stock_open": "64.41",
+		"stock_high": "64.72",
+		"stock_low": "64.02",
+		"stock_close": "64.57",
+		"stock_volume": 23108426,
+		"created": "2017-07-14T16:05:26.595Z",
+		"updated": "2017-07-14T16:05:26.595Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 105,
+	"fields": {
+		"stock_id": 1,
+		"stock_date": "2017-02-13T00:00:00Z",
+		"stock_open": "64.24",
+		"stock_high": "64.86",
+		"stock_low": "64.13",
+		"stock_close": "64.72",
+		"stock_volume": 22920101,
+		"created": "2017-07-14T16:05:26.597Z",
+		"updated": "2017-07-14T16:05:26.597Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 106,
+	"fields": {
+		"stock_id": 1,
+		"stock_date": "2017-02-10T00:00:00Z",
+		"stock_open": "64.25",
+		"stock_high": "64.30",
+		"stock_low": "63.98",
+		"stock_close": "64.00",
+		"stock_volume": 18170729,
+		"created": "2017-07-14T16:05:26.598Z",
+		"updated": "2017-07-14T16:05:26.599Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 107,
+	"fields": {
+		"stock_id": 1,
+		"stock_date": "2017-02-09T00:00:00Z",
+		"stock_open": "63.52",
+		"stock_high": "64.44",
+		"stock_low": "63.32",
+		"stock_close": "64.06",
+		"stock_volume": 22644443,
+		"created": "2017-07-14T16:05:26.600Z",
+		"updated": "2017-07-14T16:05:26.600Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 108,
+	"fields": {
+		"stock_id": 1,
+		"stock_date": "2017-02-08T00:00:00Z",
+		"stock_open": "63.57",
+		"stock_high": "63.81",
+		"stock_low": "63.22",
+		"stock_close": "63.34",
+		"stock_volume": 18096358,
+		"created": "2017-07-14T16:05:26.602Z",
+		"updated": "2017-07-14T16:05:26.602Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 109,
+	"fields": {
+		"stock_id": 1,
+		"stock_date": "2017-02-07T00:00:00Z",
+		"stock_open": "63.74",
+		"stock_high": "63.78",
+		"stock_low": "63.23",
+		"stock_close": "63.43",
+		"stock_volume": 20277226,
+		"created": "2017-07-14T16:05:26.603Z",
+		"updated": "2017-07-14T16:05:26.603Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 110,
+	"fields": {
+		"stock_id": 1,
+		"stock_date": "2017-02-06T00:00:00Z",
+		"stock_open": "63.50",
+		"stock_high": "63.65",
+		"stock_low": "63.14",
+		"stock_close": "63.64",
+		"stock_volume": 19796360,
+		"created": "2017-07-14T16:05:26.604Z",
+		"updated": "2017-07-14T16:05:26.604Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 111,
+	"fields": {
+		"stock_id": 1,
+		"stock_date": "2017-02-03T00:00:00Z",
+		"stock_open": "63.50",
+		"stock_high": "63.70",
+		"stock_low": "63.07",
+		"stock_close": "63.68",
+		"stock_volume": 30301759,
+		"created": "2017-07-14T16:05:26.606Z",
+		"updated": "2017-07-14T16:05:26.606Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 112,
+	"fields": {
+		"stock_id": 1,
+		"stock_date": "2017-02-02T00:00:00Z",
+		"stock_open": "63.25",
+		"stock_high": "63.41",
+		"stock_low": "62.75",
+		"stock_close": "63.17",
+		"stock_volume": 45827013,
+		"created": "2017-07-14T16:05:26.633Z",
+		"updated": "2017-07-14T16:05:26.633Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 113,
+	"fields": {
+		"stock_id": 1,
+		"stock_date": "2017-02-01T00:00:00Z",
+		"stock_open": "64.36",
+		"stock_high": "64.62",
+		"stock_low": "63.47",
+		"stock_close": "63.58",
+		"stock_volume": 39671528,
+		"created": "2017-07-14T16:05:26.635Z",
+		"updated": "2017-07-14T16:05:26.635Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 114,
+	"fields": {
+		"stock_id": 1,
+		"stock_date": "2017-01-31T00:00:00Z",
+		"stock_open": "64.86",
+		"stock_high": "65.15",
+		"stock_low": "64.26",
+		"stock_close": "64.65",
+		"stock_volume": 25270549,
+		"created": "2017-07-14T16:05:26.636Z",
+		"updated": "2017-07-14T16:05:26.636Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 115,
+	"fields": {
+		"stock_id": 1,
+		"stock_date": "2017-01-30T00:00:00Z",
+		"stock_open": "65.69",
+		"stock_high": "65.79",
+		"stock_low": "64.80",
+		"stock_close": "65.13",
+		"stock_volume": 31651445,
+		"created": "2017-07-14T16:05:26.638Z",
+		"updated": "2017-07-14T16:05:26.638Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 116,
+	"fields": {
+		"stock_id": 1,
+		"stock_date": "2017-01-27T00:00:00Z",
+		"stock_open": "65.39",
+		"stock_high": "65.91",
+		"stock_low": "64.89",
+		"stock_close": "65.78",
+		"stock_volume": 44817972,
+		"created": "2017-07-14T16:05:26.639Z",
+		"updated": "2017-07-14T16:05:26.639Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 117,
+	"fields": {
+		"stock_id": 1,
+		"stock_date": "2017-01-26T00:00:00Z",
+		"stock_open": "64.12",
+		"stock_high": "64.54",
+		"stock_low": "63.55",
+		"stock_close": "64.27",
+		"stock_volume": 43554645,
+		"created": "2017-07-14T16:05:26.640Z",
+		"updated": "2017-07-14T16:05:26.641Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 118,
+	"fields": {
+		"stock_id": 1,
+		"stock_date": "2017-01-25T00:00:00Z",
+		"stock_open": "63.95",
+		"stock_high": "64.10",
+		"stock_low": "63.45",
+		"stock_close": "63.68",
+		"stock_volume": 24654933,
+		"created": "2017-07-14T16:05:26.642Z",
+		"updated": "2017-07-14T16:05:26.642Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 119,
+	"fields": {
+		"stock_id": 1,
+		"stock_date": "2017-01-24T00:00:00Z",
+		"stock_open": "63.20",
+		"stock_high": "63.74",
+		"stock_low": "62.94",
+		"stock_close": "63.52",
+		"stock_volume": 24672940,
+		"created": "2017-07-14T16:05:26.644Z",
+		"updated": "2017-07-14T16:05:26.644Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 120,
+	"fields": {
+		"stock_id": 1,
+		"stock_date": "2017-01-23T00:00:00Z",
+		"stock_open": "62.70",
+		"stock_high": "63.12",
+		"stock_low": "62.57",
+		"stock_close": "62.96",
+		"stock_volume": 23097581,
+		"created": "2017-07-14T16:05:26.646Z",
+		"updated": "2017-07-14T16:05:26.646Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 121,
+	"fields": {
+		"stock_id": 1,
+		"stock_date": "2017-01-20T00:00:00Z",
+		"stock_open": "62.67",
+		"stock_high": "62.82",
+		"stock_low": "62.37",
+		"stock_close": "62.74",
+		"stock_volume": 30213462,
+		"created": "2017-07-14T16:05:26.656Z",
+		"updated": "2017-07-14T16:05:26.656Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 122,
+	"fields": {
+		"stock_id": 1,
+		"stock_date": "2017-01-19T00:00:00Z",
+		"stock_open": "62.24",
+		"stock_high": "62.98",
+		"stock_low": "62.20",
+		"stock_close": "62.30",
+		"stock_volume": 18451655,
+		"created": "2017-07-14T16:05:26.658Z",
+		"updated": "2017-07-14T16:05:26.658Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 123,
+	"fields": {
+		"stock_id": 1,
+		"stock_date": "2017-01-18T00:00:00Z",
+		"stock_open": "62.67",
+		"stock_high": "62.70",
+		"stock_low": "62.12",
+		"stock_close": "62.50",
+		"stock_volume": 19670102,
+		"created": "2017-07-14T16:05:26.660Z",
+		"updated": "2017-07-14T16:05:26.660Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 124,
+	"fields": {
+		"stock_id": 1,
+		"stock_date": "2017-01-17T00:00:00Z",
+		"stock_open": "62.68",
+		"stock_high": "62.70",
+		"stock_low": "62.03",
+		"stock_close": "62.53",
+		"stock_volume": 20663983,
+		"created": "2017-07-14T16:05:26.662Z",
+		"updated": "2017-07-14T16:05:26.662Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 125,
+	"fields": {
+		"stock_id": 1,
+		"stock_date": "2017-01-13T00:00:00Z",
+		"stock_open": "62.62",
+		"stock_high": "62.86",
+		"stock_low": "62.35",
+		"stock_close": "62.70",
+		"stock_volume": 19422310,
+		"created": "2017-07-14T16:05:26.664Z",
+		"updated": "2017-07-14T16:05:26.664Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 126,
+	"fields": {
+		"stock_id": 1,
+		"stock_date": "2017-01-12T00:00:00Z",
+		"stock_open": "63.06",
+		"stock_high": "63.40",
+		"stock_low": "61.95",
+		"stock_close": "62.61",
+		"stock_volume": 20968223,
+		"created": "2017-07-14T16:05:26.665Z",
+		"updated": "2017-07-14T16:05:26.665Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 127,
+	"fields": {
+		"stock_id": 1,
+		"stock_date": "2017-01-11T00:00:00Z",
+		"stock_open": "62.61",
+		"stock_high": "63.23",
+		"stock_low": "62.43",
+		"stock_close": "63.19",
+		"stock_volume": 21517335,
+		"created": "2017-07-14T16:05:26.667Z",
+		"updated": "2017-07-14T16:05:26.667Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 128,
+	"fields": {
+		"stock_id": 1,
+		"stock_date": "2017-01-10T00:00:00Z",
+		"stock_open": "62.73",
+		"stock_high": "63.07",
+		"stock_low": "62.28",
+		"stock_close": "62.62",
+		"stock_volume": 18593004,
+		"created": "2017-07-14T16:05:26.669Z",
+		"updated": "2017-07-14T16:05:26.669Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 129,
+	"fields": {
+		"stock_id": 1,
+		"stock_date": "2017-01-09T00:00:00Z",
+		"stock_open": "62.76",
+		"stock_high": "63.08",
+		"stock_low": "62.54",
+		"stock_close": "62.64",
+		"stock_volume": 20382730,
+		"created": "2017-07-14T16:05:26.670Z",
+		"updated": "2017-07-14T16:05:26.670Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 130,
+	"fields": {
+		"stock_id": 1,
+		"stock_date": "2017-01-06T00:00:00Z",
+		"stock_open": "62.30",
+		"stock_high": "63.15",
+		"stock_low": "62.04",
+		"stock_close": "62.84",
+		"stock_volume": 19922919,
+		"created": "2017-07-14T16:05:26.673Z",
+		"updated": "2017-07-14T16:05:26.673Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 131,
+	"fields": {
+		"stock_id": 1,
+		"stock_date": "2017-01-05T00:00:00Z",
+		"stock_open": "62.19",
+		"stock_high": "62.66",
+		"stock_low": "62.03",
+		"stock_close": "62.30",
+		"stock_volume": 24875968,
+		"created": "2017-07-14T16:05:26.674Z",
+		"updated": "2017-07-14T16:05:26.674Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 132,
+	"fields": {
+		"stock_id": 1,
+		"stock_date": "2017-01-04T00:00:00Z",
+		"stock_open": "62.48",
+		"stock_high": "62.75",
+		"stock_low": "62.12",
+		"stock_close": "62.30",
+		"stock_volume": 21339969,
+		"created": "2017-07-14T16:05:26.675Z",
+		"updated": "2017-07-14T16:05:26.675Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 133,
+	"fields": {
+		"stock_id": 1,
+		"stock_date": "2017-01-03T00:00:00Z",
+		"stock_open": "62.79",
+		"stock_high": "62.84",
+		"stock_low": "62.12",
+		"stock_close": "62.58",
+		"stock_volume": 20694101,
+		"created": "2017-07-14T16:05:26.677Z",
+		"updated": "2017-07-14T16:05:26.677Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 134,
+	"fields": {
+		"stock_id": 2,
+		"stock_date": "2017-07-13T00:00:00Z",
+		"stock_open": "145.50",
+		"stock_high": "148.49",
+		"stock_low": "145.44",
+		"stock_close": "147.77",
+		"stock_volume": 25199373,
+		"created": "2017-07-14T16:05:26.958Z",
+		"updated": "2017-07-14T16:05:26.958Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 135,
+	"fields": {
+		"stock_id": 2,
+		"stock_date": "2017-07-12T00:00:00Z",
+		"stock_open": "145.87",
+		"stock_high": "146.18",
+		"stock_low": "144.82",
+		"stock_close": "145.74",
+		"stock_volume": 24884478,
+		"created": "2017-07-14T16:05:26.959Z",
+		"updated": "2017-07-14T16:05:26.959Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 136,
+	"fields": {
+		"stock_id": 2,
+		"stock_date": "2017-07-11T00:00:00Z",
+		"stock_open": "144.73",
+		"stock_high": "145.85",
+		"stock_low": "144.38",
+		"stock_close": "145.53",
+		"stock_volume": 19781836,
+		"created": "2017-07-14T16:05:26.961Z",
+		"updated": "2017-07-14T16:05:26.961Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 137,
+	"fields": {
+		"stock_id": 2,
+		"stock_date": "2017-07-10T00:00:00Z",
+		"stock_open": "144.11",
+		"stock_high": "145.95",
+		"stock_low": "143.37",
+		"stock_close": "145.06",
+		"stock_volume": 21090636,
+		"created": "2017-07-14T16:05:26.962Z",
+		"updated": "2017-07-14T16:05:26.962Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 138,
+	"fields": {
+		"stock_id": 2,
+		"stock_date": "2017-07-07T00:00:00Z",
+		"stock_open": "142.90",
+		"stock_high": "144.75",
+		"stock_low": "142.90",
+		"stock_close": "144.18",
+		"stock_volume": 19201712,
+		"created": "2017-07-14T16:05:26.963Z",
+		"updated": "2017-07-14T16:05:26.963Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 139,
+	"fields": {
+		"stock_id": 2,
+		"stock_date": "2017-07-06T00:00:00Z",
+		"stock_open": "143.02",
+		"stock_high": "143.50",
+		"stock_low": "142.41",
+		"stock_close": "142.73",
+		"stock_volume": 24128782,
+		"created": "2017-07-14T16:05:26.964Z",
+		"updated": "2017-07-14T16:05:26.964Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 140,
+	"fields": {
+		"stock_id": 2,
+		"stock_date": "2017-07-05T00:00:00Z",
+		"stock_open": "143.69",
+		"stock_high": "144.79",
+		"stock_low": "142.72",
+		"stock_close": "144.09",
+		"stock_volume": 21569557,
+		"created": "2017-07-14T16:05:26.965Z",
+		"updated": "2017-07-14T16:05:26.965Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 141,
+	"fields": {
+		"stock_id": 2,
+		"stock_date": "2017-07-03T00:00:00Z",
+		"stock_open": "144.88",
+		"stock_high": "145.30",
+		"stock_low": "143.10",
+		"stock_close": "143.50",
+		"stock_volume": 14277848,
+		"created": "2017-07-14T16:05:26.966Z",
+		"updated": "2017-07-14T16:05:26.966Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 142,
+	"fields": {
+		"stock_id": 2,
+		"stock_date": "2017-06-30T00:00:00Z",
+		"stock_open": "144.45",
+		"stock_high": "144.96",
+		"stock_low": "143.78",
+		"stock_close": "144.02",
+		"stock_volume": 23024107,
+		"created": "2017-07-14T16:05:26.967Z",
+		"updated": "2017-07-14T16:05:26.967Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 143,
+	"fields": {
+		"stock_id": 2,
+		"stock_date": "2017-06-29T00:00:00Z",
+		"stock_open": "144.71",
+		"stock_high": "145.13",
+		"stock_low": "142.28",
+		"stock_close": "143.68",
+		"stock_volume": 31499368,
+		"created": "2017-07-14T16:05:26.968Z",
+		"updated": "2017-07-14T16:05:26.968Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 144,
+	"fields": {
+		"stock_id": 2,
+		"stock_date": "2017-06-28T00:00:00Z",
+		"stock_open": "144.49",
+		"stock_high": "146.11",
+		"stock_low": "143.16",
+		"stock_close": "145.83",
+		"stock_volume": 22082432,
+		"created": "2017-07-14T16:05:26.969Z",
+		"updated": "2017-07-14T16:05:26.969Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 145,
+	"fields": {
+		"stock_id": 2,
+		"stock_date": "2017-06-27T00:00:00Z",
+		"stock_open": "145.01",
+		"stock_high": "146.16",
+		"stock_low": "143.62",
+		"stock_close": "143.73",
+		"stock_volume": 24761891,
+		"created": "2017-07-14T16:05:26.970Z",
+		"updated": "2017-07-14T16:05:26.970Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 146,
+	"fields": {
+		"stock_id": 2,
+		"stock_date": "2017-06-26T00:00:00Z",
+		"stock_open": "147.17",
+		"stock_high": "148.28",
+		"stock_low": "145.38",
+		"stock_close": "145.82",
+		"stock_volume": 25692361,
+		"created": "2017-07-14T16:05:26.971Z",
+		"updated": "2017-07-14T16:05:26.971Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 147,
+	"fields": {
+		"stock_id": 2,
+		"stock_date": "2017-06-23T00:00:00Z",
+		"stock_open": "145.13",
+		"stock_high": "147.16",
+		"stock_low": "145.11",
+		"stock_close": "146.28",
+		"stock_volume": 35439389,
+		"created": "2017-07-14T16:05:26.972Z",
+		"updated": "2017-07-14T16:05:26.972Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 148,
+	"fields": {
+		"stock_id": 2,
+		"stock_date": "2017-06-22T00:00:00Z",
+		"stock_open": "145.77",
+		"stock_high": "146.70",
+		"stock_low": "145.12",
+		"stock_close": "145.63",
+		"stock_volume": 19106294,
+		"created": "2017-07-14T16:05:26.973Z",
+		"updated": "2017-07-14T16:05:26.973Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 149,
+	"fields": {
+		"stock_id": 2,
+		"stock_date": "2017-06-21T00:00:00Z",
+		"stock_open": "145.52",
+		"stock_high": "146.07",
+		"stock_low": "144.61",
+		"stock_close": "145.87",
+		"stock_volume": 21265751,
+		"created": "2017-07-14T16:05:26.974Z",
+		"updated": "2017-07-14T16:05:26.974Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 150,
+	"fields": {
+		"stock_id": 2,
+		"stock_date": "2017-06-20T00:00:00Z",
+		"stock_open": "146.87",
+		"stock_high": "146.87",
+		"stock_low": "144.94",
+		"stock_close": "145.01",
+		"stock_volume": 24900073,
+		"created": "2017-07-14T16:05:26.975Z",
+		"updated": "2017-07-14T16:05:26.976Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 151,
+	"fields": {
+		"stock_id": 2,
+		"stock_date": "2017-06-19T00:00:00Z",
+		"stock_open": "143.66",
+		"stock_high": "146.74",
+		"stock_low": "143.66",
+		"stock_close": "146.34",
+		"stock_volume": 32541404,
+		"created": "2017-07-14T16:05:26.976Z",
+		"updated": "2017-07-14T16:05:26.977Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 152,
+	"fields": {
+		"stock_id": 2,
+		"stock_date": "2017-06-16T00:00:00Z",
+		"stock_open": "143.78",
+		"stock_high": "144.50",
+		"stock_low": "142.20",
+		"stock_close": "142.27",
+		"stock_volume": 50361093,
+		"created": "2017-07-14T16:05:26.978Z",
+		"updated": "2017-07-14T16:05:26.978Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 153,
+	"fields": {
+		"stock_id": 2,
+		"stock_date": "2017-06-15T00:00:00Z",
+		"stock_open": "143.32",
+		"stock_high": "144.48",
+		"stock_low": "142.21",
+		"stock_close": "144.29",
+		"stock_volume": 32165373,
+		"created": "2017-07-14T16:05:26.979Z",
+		"updated": "2017-07-14T16:05:26.979Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 154,
+	"fields": {
+		"stock_id": 2,
+		"stock_date": "2017-06-14T00:00:00Z",
+		"stock_open": "147.50",
+		"stock_high": "147.50",
+		"stock_low": "143.84",
+		"stock_close": "145.16",
+		"stock_volume": 31531232,
+		"created": "2017-07-14T16:05:26.980Z",
+		"updated": "2017-07-14T16:05:26.980Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 155,
+	"fields": {
+		"stock_id": 2,
+		"stock_date": "2017-06-13T00:00:00Z",
+		"stock_open": "147.16",
+		"stock_high": "147.45",
+		"stock_low": "145.15",
+		"stock_close": "146.59",
+		"stock_volume": 34165445,
+		"created": "2017-07-14T16:05:26.981Z",
+		"updated": "2017-07-14T16:05:26.981Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 156,
+	"fields": {
+		"stock_id": 2,
+		"stock_date": "2017-06-12T00:00:00Z",
+		"stock_open": "145.74",
+		"stock_high": "146.09",
+		"stock_low": "142.51",
+		"stock_close": "145.42",
+		"stock_volume": 72307330,
+		"created": "2017-07-14T16:05:26.982Z",
+		"updated": "2017-07-14T16:05:26.982Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 157,
+	"fields": {
+		"stock_id": 2,
+		"stock_date": "2017-06-09T00:00:00Z",
+		"stock_open": "155.19",
+		"stock_high": "155.19",
+		"stock_low": "146.02",
+		"stock_close": "148.98",
+		"stock_volume": 64882657,
+		"created": "2017-07-14T16:05:26.983Z",
+		"updated": "2017-07-14T16:05:26.983Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 158,
+	"fields": {
+		"stock_id": 2,
+		"stock_date": "2017-06-08T00:00:00Z",
+		"stock_open": "155.25",
+		"stock_high": "155.54",
+		"stock_low": "154.40",
+		"stock_close": "154.99",
+		"stock_volume": 21250798,
+		"created": "2017-07-14T16:05:26.984Z",
+		"updated": "2017-07-14T16:05:26.984Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 159,
+	"fields": {
+		"stock_id": 2,
+		"stock_date": "2017-06-07T00:00:00Z",
+		"stock_open": "155.02",
+		"stock_high": "155.98",
+		"stock_low": "154.48",
+		"stock_close": "155.37",
+		"stock_volume": 21069647,
+		"created": "2017-07-14T16:05:26.985Z",
+		"updated": "2017-07-14T16:05:26.985Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 160,
+	"fields": {
+		"stock_id": 2,
+		"stock_date": "2017-06-06T00:00:00Z",
+		"stock_open": "153.90",
+		"stock_high": "155.81",
+		"stock_low": "153.78",
+		"stock_close": "154.45",
+		"stock_volume": 26624926,
+		"created": "2017-07-14T16:05:26.986Z",
+		"updated": "2017-07-14T16:05:26.986Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 161,
+	"fields": {
+		"stock_id": 2,
+		"stock_date": "2017-06-05T00:00:00Z",
+		"stock_open": "154.34",
+		"stock_high": "154.45",
+		"stock_low": "153.46",
+		"stock_close": "153.93",
+		"stock_volume": 25331662,
+		"created": "2017-07-14T16:05:26.987Z",
+		"updated": "2017-07-14T16:05:26.987Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 162,
+	"fields": {
+		"stock_id": 2,
+		"stock_date": "2017-06-02T00:00:00Z",
+		"stock_open": "153.58",
+		"stock_high": "155.45",
+		"stock_low": "152.89",
+		"stock_close": "155.45",
+		"stock_volume": 27770715,
+		"created": "2017-07-14T16:05:26.988Z",
+		"updated": "2017-07-14T16:05:26.988Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 163,
+	"fields": {
+		"stock_id": 2,
+		"stock_date": "2017-06-01T00:00:00Z",
+		"stock_open": "153.17",
+		"stock_high": "153.33",
+		"stock_low": "152.22",
+		"stock_close": "153.18",
+		"stock_volume": 16404088,
+		"created": "2017-07-14T16:05:26.989Z",
+		"updated": "2017-07-14T16:05:26.989Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 164,
+	"fields": {
+		"stock_id": 2,
+		"stock_date": "2017-05-31T00:00:00Z",
+		"stock_open": "153.97",
+		"stock_high": "154.17",
+		"stock_low": "152.38",
+		"stock_close": "152.76",
+		"stock_volume": 24451164,
+		"created": "2017-07-14T16:05:26.990Z",
+		"updated": "2017-07-14T16:05:26.990Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 165,
+	"fields": {
+		"stock_id": 2,
+		"stock_date": "2017-05-30T00:00:00Z",
+		"stock_open": "153.42",
+		"stock_high": "154.43",
+		"stock_low": "153.33",
+		"stock_close": "153.67",
+		"stock_volume": 20126851,
+		"created": "2017-07-14T16:05:26.991Z",
+		"updated": "2017-07-14T16:05:26.991Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 166,
+	"fields": {
+		"stock_id": 2,
+		"stock_date": "2017-05-26T00:00:00Z",
+		"stock_open": "154.00",
+		"stock_high": "154.24",
+		"stock_low": "153.31",
+		"stock_close": "153.61",
+		"stock_volume": 21927637,
+		"created": "2017-07-14T16:05:26.992Z",
+		"updated": "2017-07-14T16:05:26.992Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 167,
+	"fields": {
+		"stock_id": 2,
+		"stock_date": "2017-05-25T00:00:00Z",
+		"stock_open": "153.73",
+		"stock_high": "154.35",
+		"stock_low": "153.03",
+		"stock_close": "153.87",
+		"stock_volume": 19235598,
+		"created": "2017-07-14T16:05:26.993Z",
+		"updated": "2017-07-14T16:05:26.993Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 168,
+	"fields": {
+		"stock_id": 2,
+		"stock_date": "2017-05-24T00:00:00Z",
+		"stock_open": "153.84",
+		"stock_high": "154.17",
+		"stock_low": "152.67",
+		"stock_close": "153.34",
+		"stock_volume": 19219154,
+		"created": "2017-07-14T16:05:26.995Z",
+		"updated": "2017-07-14T16:05:26.995Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 169,
+	"fields": {
+		"stock_id": 2,
+		"stock_date": "2017-05-23T00:00:00Z",
+		"stock_open": "154.90",
+		"stock_high": "154.90",
+		"stock_low": "153.31",
+		"stock_close": "153.80",
+		"stock_volume": 19918871,
+		"created": "2017-07-14T16:05:26.996Z",
+		"updated": "2017-07-14T16:05:26.996Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 170,
+	"fields": {
+		"stock_id": 2,
+		"stock_date": "2017-05-22T00:00:00Z",
+		"stock_open": "154.00",
+		"stock_high": "154.58",
+		"stock_low": "152.91",
+		"stock_close": "153.99",
+		"stock_volume": 22966437,
+		"created": "2017-07-14T16:05:26.997Z",
+		"updated": "2017-07-14T16:05:26.997Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 171,
+	"fields": {
+		"stock_id": 2,
+		"stock_date": "2017-05-19T00:00:00Z",
+		"stock_open": "153.38",
+		"stock_high": "153.98",
+		"stock_low": "152.63",
+		"stock_close": "153.06",
+		"stock_volume": 26960788,
+		"created": "2017-07-14T16:05:26.998Z",
+		"updated": "2017-07-14T16:05:26.998Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 172,
+	"fields": {
+		"stock_id": 2,
+		"stock_date": "2017-05-18T00:00:00Z",
+		"stock_open": "151.27",
+		"stock_high": "153.34",
+		"stock_low": "151.13",
+		"stock_close": "152.54",
+		"stock_volume": 33568215,
+		"created": "2017-07-14T16:05:26.999Z",
+		"updated": "2017-07-14T16:05:26.999Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 173,
+	"fields": {
+		"stock_id": 2,
+		"stock_date": "2017-05-17T00:00:00Z",
+		"stock_open": "153.60",
+		"stock_high": "154.57",
+		"stock_low": "149.71",
+		"stock_close": "150.25",
+		"stock_volume": 50767678,
+		"created": "2017-07-14T16:05:27Z",
+		"updated": "2017-07-14T16:05:27Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 174,
+	"fields": {
+		"stock_id": 2,
+		"stock_date": "2017-05-16T00:00:00Z",
+		"stock_open": "155.94",
+		"stock_high": "156.06",
+		"stock_low": "154.72",
+		"stock_close": "155.47",
+		"stock_volume": 20048478,
+		"created": "2017-07-14T16:05:27.001Z",
+		"updated": "2017-07-14T16:05:27.001Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 175,
+	"fields": {
+		"stock_id": 2,
+		"stock_date": "2017-05-15T00:00:00Z",
+		"stock_open": "156.01",
+		"stock_high": "156.65",
+		"stock_low": "155.05",
+		"stock_close": "155.70",
+		"stock_volume": 26009719,
+		"created": "2017-07-14T16:05:27.003Z",
+		"updated": "2017-07-14T16:05:27.003Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 176,
+	"fields": {
+		"stock_id": 2,
+		"stock_date": "2017-05-12T00:00:00Z",
+		"stock_open": "154.70",
+		"stock_high": "156.42",
+		"stock_low": "154.67",
+		"stock_close": "156.10",
+		"stock_volume": 32527017,
+		"created": "2017-07-14T16:05:27.004Z",
+		"updated": "2017-07-14T16:05:27.004Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 177,
+	"fields": {
+		"stock_id": 2,
+		"stock_date": "2017-05-11T00:00:00Z",
+		"stock_open": "152.45",
+		"stock_high": "154.07",
+		"stock_low": "152.31",
+		"stock_close": "153.95",
+		"stock_volume": 27255058,
+		"created": "2017-07-14T16:05:27.005Z",
+		"updated": "2017-07-14T16:05:27.005Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 178,
+	"fields": {
+		"stock_id": 2,
+		"stock_date": "2017-05-10T00:00:00Z",
+		"stock_open": "153.63",
+		"stock_high": "153.94",
+		"stock_low": "152.11",
+		"stock_close": "153.26",
+		"stock_volume": 25805692,
+		"created": "2017-07-14T16:05:27.006Z",
+		"updated": "2017-07-14T16:05:27.006Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 179,
+	"fields": {
+		"stock_id": 2,
+		"stock_date": "2017-05-09T00:00:00Z",
+		"stock_open": "153.87",
+		"stock_high": "154.88",
+		"stock_low": "153.45",
+		"stock_close": "153.99",
+		"stock_volume": 39130363,
+		"created": "2017-07-14T16:05:27.007Z",
+		"updated": "2017-07-14T16:05:27.007Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 180,
+	"fields": {
+		"stock_id": 2,
+		"stock_date": "2017-05-08T00:00:00Z",
+		"stock_open": "149.03",
+		"stock_high": "153.70",
+		"stock_low": "149.03",
+		"stock_close": "153.01",
+		"stock_volume": 48752413,
+		"created": "2017-07-14T16:05:27.008Z",
+		"updated": "2017-07-14T16:05:27.008Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 181,
+	"fields": {
+		"stock_id": 2,
+		"stock_date": "2017-05-05T00:00:00Z",
+		"stock_open": "146.76",
+		"stock_high": "148.98",
+		"stock_low": "146.76",
+		"stock_close": "148.96",
+		"stock_volume": 27327725,
+		"created": "2017-07-14T16:05:27.009Z",
+		"updated": "2017-07-14T16:05:27.009Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 182,
+	"fields": {
+		"stock_id": 2,
+		"stock_date": "2017-05-04T00:00:00Z",
+		"stock_open": "146.52",
+		"stock_high": "147.14",
+		"stock_low": "145.81",
+		"stock_close": "146.53",
+		"stock_volume": 23371872,
+		"created": "2017-07-14T16:05:27.010Z",
+		"updated": "2017-07-14T16:05:27.010Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 183,
+	"fields": {
+		"stock_id": 2,
+		"stock_date": "2017-05-03T00:00:00Z",
+		"stock_open": "145.59",
+		"stock_high": "147.49",
+		"stock_low": "144.27",
+		"stock_close": "147.06",
+		"stock_volume": 45697034,
+		"created": "2017-07-14T16:05:27.011Z",
+		"updated": "2017-07-14T16:05:27.011Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 184,
+	"fields": {
+		"stock_id": 2,
+		"stock_date": "2017-05-02T00:00:00Z",
+		"stock_open": "147.54",
+		"stock_high": "148.09",
+		"stock_low": "146.84",
+		"stock_close": "147.51",
+		"stock_volume": 45352194,
+		"created": "2017-07-14T16:05:27.012Z",
+		"updated": "2017-07-14T16:05:27.012Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 185,
+	"fields": {
+		"stock_id": 2,
+		"stock_date": "2017-05-01T00:00:00Z",
+		"stock_open": "145.10",
+		"stock_high": "147.20",
+		"stock_low": "144.96",
+		"stock_close": "146.58",
+		"stock_volume": 33602943,
+		"created": "2017-07-14T16:05:27.013Z",
+		"updated": "2017-07-14T16:05:27.013Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 186,
+	"fields": {
+		"stock_id": 2,
+		"stock_date": "2017-04-28T00:00:00Z",
+		"stock_open": "144.09",
+		"stock_high": "144.30",
+		"stock_low": "143.27",
+		"stock_close": "143.65",
+		"stock_volume": 20860358,
+		"created": "2017-07-14T16:05:27.014Z",
+		"updated": "2017-07-14T16:05:27.014Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 187,
+	"fields": {
+		"stock_id": 2,
+		"stock_date": "2017-04-27T00:00:00Z",
+		"stock_open": "143.92",
+		"stock_high": "144.16",
+		"stock_low": "143.31",
+		"stock_close": "143.79",
+		"stock_volume": 14246347,
+		"created": "2017-07-14T16:05:27.015Z",
+		"updated": "2017-07-14T16:05:27.015Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 188,
+	"fields": {
+		"stock_id": 2,
+		"stock_date": "2017-04-26T00:00:00Z",
+		"stock_open": "144.47",
+		"stock_high": "144.60",
+		"stock_low": "143.38",
+		"stock_close": "143.68",
+		"stock_volume": 20041241,
+		"created": "2017-07-14T16:05:27.016Z",
+		"updated": "2017-07-14T16:05:27.016Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 189,
+	"fields": {
+		"stock_id": 2,
+		"stock_date": "2017-04-25T00:00:00Z",
+		"stock_open": "143.91",
+		"stock_high": "144.90",
+		"stock_low": "143.87",
+		"stock_close": "144.53",
+		"stock_volume": 18871501,
+		"created": "2017-07-14T16:05:27.017Z",
+		"updated": "2017-07-14T16:05:27.017Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 190,
+	"fields": {
+		"stock_id": 2,
+		"stock_date": "2017-04-24T00:00:00Z",
+		"stock_open": "143.50",
+		"stock_high": "143.95",
+		"stock_low": "143.18",
+		"stock_close": "143.64",
+		"stock_volume": 17134333,
+		"created": "2017-07-14T16:05:27.018Z",
+		"updated": "2017-07-14T16:05:27.018Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 191,
+	"fields": {
+		"stock_id": 2,
+		"stock_date": "2017-04-21T00:00:00Z",
+		"stock_open": "142.44",
+		"stock_high": "142.68",
+		"stock_low": "141.85",
+		"stock_close": "142.27",
+		"stock_volume": 17320928,
+		"created": "2017-07-14T16:05:27.019Z",
+		"updated": "2017-07-14T16:05:27.019Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 192,
+	"fields": {
+		"stock_id": 2,
+		"stock_date": "2017-04-20T00:00:00Z",
+		"stock_open": "141.22",
+		"stock_high": "142.92",
+		"stock_low": "141.16",
+		"stock_close": "142.44",
+		"stock_volume": 23319562,
+		"created": "2017-07-14T16:05:27.020Z",
+		"updated": "2017-07-14T16:05:27.020Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 193,
+	"fields": {
+		"stock_id": 2,
+		"stock_date": "2017-04-19T00:00:00Z",
+		"stock_open": "141.88",
+		"stock_high": "142.00",
+		"stock_low": "140.45",
+		"stock_close": "140.68",
+		"stock_volume": 17328375,
+		"created": "2017-07-14T16:05:27.022Z",
+		"updated": "2017-07-14T16:05:27.022Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 194,
+	"fields": {
+		"stock_id": 2,
+		"stock_date": "2017-04-18T00:00:00Z",
+		"stock_open": "141.41",
+		"stock_high": "142.04",
+		"stock_low": "141.11",
+		"stock_close": "141.20",
+		"stock_volume": 14697544,
+		"created": "2017-07-14T16:05:27.023Z",
+		"updated": "2017-07-14T16:05:27.023Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 195,
+	"fields": {
+		"stock_id": 2,
+		"stock_date": "2017-04-17T00:00:00Z",
+		"stock_open": "141.48",
+		"stock_high": "141.88",
+		"stock_low": "140.87",
+		"stock_close": "141.83",
+		"stock_volume": 16582094,
+		"created": "2017-07-14T16:05:27.024Z",
+		"updated": "2017-07-14T16:05:27.024Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 196,
+	"fields": {
+		"stock_id": 2,
+		"stock_date": "2017-04-13T00:00:00Z",
+		"stock_open": "141.91",
+		"stock_high": "142.38",
+		"stock_low": "141.05",
+		"stock_close": "141.05",
+		"stock_volume": 17822880,
+		"created": "2017-07-14T16:05:27.025Z",
+		"updated": "2017-07-14T16:05:27.025Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 197,
+	"fields": {
+		"stock_id": 2,
+		"stock_date": "2017-04-12T00:00:00Z",
+		"stock_open": "141.60",
+		"stock_high": "142.15",
+		"stock_low": "141.01",
+		"stock_close": "141.80",
+		"stock_volume": 20350000,
+		"created": "2017-07-14T16:05:27.026Z",
+		"updated": "2017-07-14T16:05:27.026Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 198,
+	"fields": {
+		"stock_id": 2,
+		"stock_date": "2017-04-11T00:00:00Z",
+		"stock_open": "142.94",
+		"stock_high": "143.35",
+		"stock_low": "140.06",
+		"stock_close": "141.63",
+		"stock_volume": 30379376,
+		"created": "2017-07-14T16:05:27.027Z",
+		"updated": "2017-07-14T16:05:27.027Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 199,
+	"fields": {
+		"stock_id": 2,
+		"stock_date": "2017-04-10T00:00:00Z",
+		"stock_open": "143.60",
+		"stock_high": "143.88",
+		"stock_low": "142.90",
+		"stock_close": "143.17",
+		"stock_volume": 18933397,
+		"created": "2017-07-14T16:05:27.028Z",
+		"updated": "2017-07-14T16:05:27.028Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 200,
+	"fields": {
+		"stock_id": 2,
+		"stock_date": "2017-04-07T00:00:00Z",
+		"stock_open": "143.73",
+		"stock_high": "144.18",
+		"stock_low": "143.27",
+		"stock_close": "143.34",
+		"stock_volume": 16672198,
+		"created": "2017-07-14T16:05:27.029Z",
+		"updated": "2017-07-14T16:05:27.029Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 201,
+	"fields": {
+		"stock_id": 2,
+		"stock_date": "2017-04-06T00:00:00Z",
+		"stock_open": "144.29",
+		"stock_high": "144.52",
+		"stock_low": "143.45",
+		"stock_close": "143.66",
+		"stock_volume": 21149034,
+		"created": "2017-07-14T16:05:27.030Z",
+		"updated": "2017-07-14T16:05:27.030Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 202,
+	"fields": {
+		"stock_id": 2,
+		"stock_date": "2017-04-05T00:00:00Z",
+		"stock_open": "144.22",
+		"stock_high": "145.46",
+		"stock_low": "143.81",
+		"stock_close": "144.02",
+		"stock_volume": 27717854,
+		"created": "2017-07-14T16:05:27.031Z",
+		"updated": "2017-07-14T16:05:27.031Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 203,
+	"fields": {
+		"stock_id": 2,
+		"stock_date": "2017-04-04T00:00:00Z",
+		"stock_open": "143.25",
+		"stock_high": "144.89",
+		"stock_low": "143.17",
+		"stock_close": "144.77",
+		"stock_volume": 19891354,
+		"created": "2017-07-14T16:05:27.032Z",
+		"updated": "2017-07-14T16:05:27.032Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 204,
+	"fields": {
+		"stock_id": 2,
+		"stock_date": "2017-04-03T00:00:00Z",
+		"stock_open": "143.71",
+		"stock_high": "144.12",
+		"stock_low": "143.05",
+		"stock_close": "143.70",
+		"stock_volume": 19985714,
+		"created": "2017-07-14T16:05:27.033Z",
+		"updated": "2017-07-14T16:05:27.033Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 205,
+	"fields": {
+		"stock_id": 2,
+		"stock_date": "2017-03-31T00:00:00Z",
+		"stock_open": "143.72",
+		"stock_high": "144.27",
+		"stock_low": "143.01",
+		"stock_close": "143.66",
+		"stock_volume": 19661651,
+		"created": "2017-07-14T16:05:27.034Z",
+		"updated": "2017-07-14T16:05:27.034Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 206,
+	"fields": {
+		"stock_id": 2,
+		"stock_date": "2017-03-30T00:00:00Z",
+		"stock_open": "144.19",
+		"stock_high": "144.50",
+		"stock_low": "143.50",
+		"stock_close": "143.93",
+		"stock_volume": 21207252,
+		"created": "2017-07-14T16:05:27.035Z",
+		"updated": "2017-07-14T16:05:27.035Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 207,
+	"fields": {
+		"stock_id": 2,
+		"stock_date": "2017-03-29T00:00:00Z",
+		"stock_open": "143.68",
+		"stock_high": "144.49",
+		"stock_low": "143.19",
+		"stock_close": "144.12",
+		"stock_volume": 29189955,
+		"created": "2017-07-14T16:05:27.036Z",
+		"updated": "2017-07-14T16:05:27.036Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 208,
+	"fields": {
+		"stock_id": 2,
+		"stock_date": "2017-03-28T00:00:00Z",
+		"stock_open": "140.91",
+		"stock_high": "144.04",
+		"stock_low": "140.62",
+		"stock_close": "143.80",
+		"stock_volume": 33374805,
+		"created": "2017-07-14T16:05:27.037Z",
+		"updated": "2017-07-14T16:05:27.037Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 209,
+	"fields": {
+		"stock_id": 2,
+		"stock_date": "2017-03-27T00:00:00Z",
+		"stock_open": "139.39",
+		"stock_high": "141.22",
+		"stock_low": "138.62",
+		"stock_close": "140.88",
+		"stock_volume": 23575094,
+		"created": "2017-07-14T16:05:27.038Z",
+		"updated": "2017-07-14T16:05:27.038Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 210,
+	"fields": {
+		"stock_id": 2,
+		"stock_date": "2017-03-24T00:00:00Z",
+		"stock_open": "141.50",
+		"stock_high": "141.74",
+		"stock_low": "140.35",
+		"stock_close": "140.64",
+		"stock_volume": 22395563,
+		"created": "2017-07-14T16:05:27.039Z",
+		"updated": "2017-07-14T16:05:27.039Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 211,
+	"fields": {
+		"stock_id": 2,
+		"stock_date": "2017-03-23T00:00:00Z",
+		"stock_open": "141.26",
+		"stock_high": "141.58",
+		"stock_low": "140.61",
+		"stock_close": "140.92",
+		"stock_volume": 20346301,
+		"created": "2017-07-14T16:05:27.040Z",
+		"updated": "2017-07-14T16:05:27.040Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 212,
+	"fields": {
+		"stock_id": 2,
+		"stock_date": "2017-03-22T00:00:00Z",
+		"stock_open": "139.84",
+		"stock_high": "141.60",
+		"stock_low": "139.76",
+		"stock_close": "141.42",
+		"stock_volume": 25860165,
+		"created": "2017-07-14T16:05:27.041Z",
+		"updated": "2017-07-14T16:05:27.042Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 213,
+	"fields": {
+		"stock_id": 2,
+		"stock_date": "2017-03-21T00:00:00Z",
+		"stock_open": "142.11",
+		"stock_high": "142.80",
+		"stock_low": "139.73",
+		"stock_close": "139.84",
+		"stock_volume": 39529912,
+		"created": "2017-07-14T16:05:27.044Z",
+		"updated": "2017-07-14T16:05:27.045Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 214,
+	"fields": {
+		"stock_id": 2,
+		"stock_date": "2017-03-20T00:00:00Z",
+		"stock_open": "140.40",
+		"stock_high": "141.50",
+		"stock_low": "140.23",
+		"stock_close": "141.46",
+		"stock_volume": 21542038,
+		"created": "2017-07-14T16:05:27.046Z",
+		"updated": "2017-07-14T16:05:27.046Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 215,
+	"fields": {
+		"stock_id": 2,
+		"stock_date": "2017-03-17T00:00:00Z",
+		"stock_open": "141.00",
+		"stock_high": "141.00",
+		"stock_low": "139.89",
+		"stock_close": "139.99",
+		"stock_volume": 43884952,
+		"created": "2017-07-14T16:05:27.047Z",
+		"updated": "2017-07-14T16:05:27.047Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 216,
+	"fields": {
+		"stock_id": 2,
+		"stock_date": "2017-03-16T00:00:00Z",
+		"stock_open": "140.72",
+		"stock_high": "141.02",
+		"stock_low": "140.26",
+		"stock_close": "140.69",
+		"stock_volume": 19231998,
+		"created": "2017-07-14T16:05:27.049Z",
+		"updated": "2017-07-14T16:05:27.049Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 217,
+	"fields": {
+		"stock_id": 2,
+		"stock_date": "2017-03-15T00:00:00Z",
+		"stock_open": "139.41",
+		"stock_high": "140.75",
+		"stock_low": "139.02",
+		"stock_close": "140.46",
+		"stock_volume": 25691774,
+		"created": "2017-07-14T16:05:27.050Z",
+		"updated": "2017-07-14T16:05:27.050Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 218,
+	"fields": {
+		"stock_id": 2,
+		"stock_date": "2017-03-14T00:00:00Z",
+		"stock_open": "139.30",
+		"stock_high": "139.65",
+		"stock_low": "138.84",
+		"stock_close": "138.99",
+		"stock_volume": 15309065,
+		"created": "2017-07-14T16:05:27.051Z",
+		"updated": "2017-07-14T16:05:27.051Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 219,
+	"fields": {
+		"stock_id": 2,
+		"stock_date": "2017-03-13T00:00:00Z",
+		"stock_open": "138.85",
+		"stock_high": "139.43",
+		"stock_low": "138.82",
+		"stock_close": "139.20",
+		"stock_volume": 17421717,
+		"created": "2017-07-14T16:05:27.052Z",
+		"updated": "2017-07-14T16:05:27.052Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 220,
+	"fields": {
+		"stock_id": 2,
+		"stock_date": "2017-03-10T00:00:00Z",
+		"stock_open": "139.25",
+		"stock_high": "139.36",
+		"stock_low": "138.64",
+		"stock_close": "139.14",
+		"stock_volume": 19612801,
+		"created": "2017-07-14T16:05:27.053Z",
+		"updated": "2017-07-14T16:05:27.053Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 221,
+	"fields": {
+		"stock_id": 2,
+		"stock_date": "2017-03-09T00:00:00Z",
+		"stock_open": "138.74",
+		"stock_high": "138.79",
+		"stock_low": "137.05",
+		"stock_close": "138.68",
+		"stock_volume": 22155904,
+		"created": "2017-07-14T16:05:27.054Z",
+		"updated": "2017-07-14T16:05:27.054Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 222,
+	"fields": {
+		"stock_id": 2,
+		"stock_date": "2017-03-08T00:00:00Z",
+		"stock_open": "138.95",
+		"stock_high": "139.80",
+		"stock_low": "138.82",
+		"stock_close": "139.00",
+		"stock_volume": 18707236,
+		"created": "2017-07-14T16:05:27.055Z",
+		"updated": "2017-07-14T16:05:27.055Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 223,
+	"fields": {
+		"stock_id": 2,
+		"stock_date": "2017-03-07T00:00:00Z",
+		"stock_open": "139.06",
+		"stock_high": "139.98",
+		"stock_low": "138.79",
+		"stock_close": "139.52",
+		"stock_volume": 17446297,
+		"created": "2017-07-14T16:05:27.056Z",
+		"updated": "2017-07-14T16:05:27.056Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 224,
+	"fields": {
+		"stock_id": 2,
+		"stock_date": "2017-03-06T00:00:00Z",
+		"stock_open": "139.36",
+		"stock_high": "139.77",
+		"stock_low": "138.60",
+		"stock_close": "139.34",
+		"stock_volume": 21750044,
+		"created": "2017-07-14T16:05:27.057Z",
+		"updated": "2017-07-14T16:05:27.057Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 225,
+	"fields": {
+		"stock_id": 2,
+		"stock_date": "2017-03-03T00:00:00Z",
+		"stock_open": "138.78",
+		"stock_high": "139.83",
+		"stock_low": "138.59",
+		"stock_close": "139.78",
+		"stock_volume": 21571121,
+		"created": "2017-07-14T16:05:27.059Z",
+		"updated": "2017-07-14T16:05:27.059Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 226,
+	"fields": {
+		"stock_id": 2,
+		"stock_date": "2017-03-02T00:00:00Z",
+		"stock_open": "140.00",
+		"stock_high": "140.28",
+		"stock_low": "138.76",
+		"stock_close": "138.96",
+		"stock_volume": 26210984,
+		"created": "2017-07-14T16:05:27.060Z",
+		"updated": "2017-07-14T16:05:27.060Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 227,
+	"fields": {
+		"stock_id": 2,
+		"stock_date": "2017-03-01T00:00:00Z",
+		"stock_open": "137.89",
+		"stock_high": "140.15",
+		"stock_low": "137.60",
+		"stock_close": "139.79",
+		"stock_volume": 36414585,
+		"created": "2017-07-14T16:05:27.061Z",
+		"updated": "2017-07-14T16:05:27.061Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 228,
+	"fields": {
+		"stock_id": 2,
+		"stock_date": "2017-02-28T00:00:00Z",
+		"stock_open": "137.08",
+		"stock_high": "137.44",
+		"stock_low": "136.70",
+		"stock_close": "136.99",
+		"stock_volume": 23482860,
+		"created": "2017-07-14T16:05:27.062Z",
+		"updated": "2017-07-14T16:05:27.062Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 229,
+	"fields": {
+		"stock_id": 2,
+		"stock_date": "2017-02-27T00:00:00Z",
+		"stock_open": "137.14",
+		"stock_high": "137.44",
+		"stock_low": "136.28",
+		"stock_close": "136.93",
+		"stock_volume": 20257426,
+		"created": "2017-07-14T16:05:27.063Z",
+		"updated": "2017-07-14T16:05:27.063Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 230,
+	"fields": {
+		"stock_id": 2,
+		"stock_date": "2017-02-24T00:00:00Z",
+		"stock_open": "135.91",
+		"stock_high": "136.66",
+		"stock_low": "135.28",
+		"stock_close": "136.66",
+		"stock_volume": 21776585,
+		"created": "2017-07-14T16:05:27.064Z",
+		"updated": "2017-07-14T16:05:27.064Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 231,
+	"fields": {
+		"stock_id": 2,
+		"stock_date": "2017-02-23T00:00:00Z",
+		"stock_open": "137.38",
+		"stock_high": "137.48",
+		"stock_low": "136.30",
+		"stock_close": "136.53",
+		"stock_volume": 20788186,
+		"created": "2017-07-14T16:05:27.066Z",
+		"updated": "2017-07-14T16:05:27.066Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 232,
+	"fields": {
+		"stock_id": 2,
+		"stock_date": "2017-02-22T00:00:00Z",
+		"stock_open": "136.43",
+		"stock_high": "137.12",
+		"stock_low": "136.11",
+		"stock_close": "137.11",
+		"stock_volume": 20836932,
+		"created": "2017-07-14T16:05:27.067Z",
+		"updated": "2017-07-14T16:05:27.067Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 233,
+	"fields": {
+		"stock_id": 2,
+		"stock_date": "2017-02-21T00:00:00Z",
+		"stock_open": "136.23",
+		"stock_high": "136.75",
+		"stock_low": "135.98",
+		"stock_close": "136.70",
+		"stock_volume": 24507156,
+		"created": "2017-07-14T16:05:27.068Z",
+		"updated": "2017-07-14T16:05:27.068Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 234,
+	"fields": {
+		"stock_id": 2,
+		"stock_date": "2017-02-17T00:00:00Z",
+		"stock_open": "135.10",
+		"stock_high": "135.83",
+		"stock_low": "135.10",
+		"stock_close": "135.72",
+		"stock_volume": 22198197,
+		"created": "2017-07-14T16:05:27.069Z",
+		"updated": "2017-07-14T16:05:27.069Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 235,
+	"fields": {
+		"stock_id": 2,
+		"stock_date": "2017-02-16T00:00:00Z",
+		"stock_open": "135.67",
+		"stock_high": "135.90",
+		"stock_low": "134.84",
+		"stock_close": "135.34",
+		"stock_volume": 22584555,
+		"created": "2017-07-14T16:05:27.070Z",
+		"updated": "2017-07-14T16:05:27.070Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 236,
+	"fields": {
+		"stock_id": 2,
+		"stock_date": "2017-02-15T00:00:00Z",
+		"stock_open": "135.52",
+		"stock_high": "136.27",
+		"stock_low": "134.62",
+		"stock_close": "135.51",
+		"stock_volume": 35623100,
+		"created": "2017-07-14T16:05:27.071Z",
+		"updated": "2017-07-14T16:05:27.071Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 237,
+	"fields": {
+		"stock_id": 2,
+		"stock_date": "2017-02-14T00:00:00Z",
+		"stock_open": "133.47",
+		"stock_high": "135.09",
+		"stock_low": "133.25",
+		"stock_close": "135.02",
+		"stock_volume": 33226223,
+		"created": "2017-07-14T16:05:27.072Z",
+		"updated": "2017-07-14T16:05:27.072Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 238,
+	"fields": {
+		"stock_id": 2,
+		"stock_date": "2017-02-13T00:00:00Z",
+		"stock_open": "133.08",
+		"stock_high": "133.82",
+		"stock_low": "132.75",
+		"stock_close": "133.29",
+		"stock_volume": 23035421,
+		"created": "2017-07-14T16:05:27.073Z",
+		"updated": "2017-07-14T16:05:27.073Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 239,
+	"fields": {
+		"stock_id": 2,
+		"stock_date": "2017-02-10T00:00:00Z",
+		"stock_open": "132.46",
+		"stock_high": "132.94",
+		"stock_low": "132.05",
+		"stock_close": "132.12",
+		"stock_volume": 20065458,
+		"created": "2017-07-14T16:05:27.074Z",
+		"updated": "2017-07-14T16:05:27.074Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 240,
+	"fields": {
+		"stock_id": 2,
+		"stock_date": "2017-02-09T00:00:00Z",
+		"stock_open": "131.65",
+		"stock_high": "132.44",
+		"stock_low": "131.12",
+		"stock_close": "132.42",
+		"stock_volume": 28349859,
+		"created": "2017-07-14T16:05:27.075Z",
+		"updated": "2017-07-14T16:05:27.075Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 241,
+	"fields": {
+		"stock_id": 2,
+		"stock_date": "2017-02-08T00:00:00Z",
+		"stock_open": "131.35",
+		"stock_high": "132.22",
+		"stock_low": "131.22",
+		"stock_close": "132.04",
+		"stock_volume": 23004072,
+		"created": "2017-07-14T16:05:27.076Z",
+		"updated": "2017-07-14T16:05:27.076Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 242,
+	"fields": {
+		"stock_id": 2,
+		"stock_date": "2017-02-07T00:00:00Z",
+		"stock_open": "130.54",
+		"stock_high": "132.09",
+		"stock_low": "130.45",
+		"stock_close": "131.53",
+		"stock_volume": 38183841,
+		"created": "2017-07-14T16:05:27.077Z",
+		"updated": "2017-07-14T16:05:27.077Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 243,
+	"fields": {
+		"stock_id": 2,
+		"stock_date": "2017-02-06T00:00:00Z",
+		"stock_open": "129.13",
+		"stock_high": "130.50",
+		"stock_low": "128.90",
+		"stock_close": "130.29",
+		"stock_volume": 26845924,
+		"created": "2017-07-14T16:05:27.078Z",
+		"updated": "2017-07-14T16:05:27.078Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 244,
+	"fields": {
+		"stock_id": 2,
+		"stock_date": "2017-02-03T00:00:00Z",
+		"stock_open": "128.31",
+		"stock_high": "129.19",
+		"stock_low": "128.16",
+		"stock_close": "129.08",
+		"stock_volume": 24507301,
+		"created": "2017-07-14T16:05:27.080Z",
+		"updated": "2017-07-14T16:05:27.080Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 245,
+	"fields": {
+		"stock_id": 2,
+		"stock_date": "2017-02-02T00:00:00Z",
+		"stock_open": "127.98",
+		"stock_high": "129.39",
+		"stock_low": "127.78",
+		"stock_close": "128.53",
+		"stock_volume": 33710411,
+		"created": "2017-07-14T16:05:27.097Z",
+		"updated": "2017-07-14T16:05:27.097Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 246,
+	"fields": {
+		"stock_id": 2,
+		"stock_date": "2017-02-01T00:00:00Z",
+		"stock_open": "127.03",
+		"stock_high": "130.49",
+		"stock_low": "127.01",
+		"stock_close": "128.75",
+		"stock_volume": 111985040,
+		"created": "2017-07-14T16:05:27.098Z",
+		"updated": "2017-07-14T16:05:27.098Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 247,
+	"fields": {
+		"stock_id": 2,
+		"stock_date": "2017-01-31T00:00:00Z",
+		"stock_open": "121.15",
+		"stock_high": "121.39",
+		"stock_low": "120.62",
+		"stock_close": "121.35",
+		"stock_volume": 49200993,
+		"created": "2017-07-14T16:05:27.099Z",
+		"updated": "2017-07-14T16:05:27.099Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 248,
+	"fields": {
+		"stock_id": 2,
+		"stock_date": "2017-01-30T00:00:00Z",
+		"stock_open": "120.93",
+		"stock_high": "121.63",
+		"stock_low": "120.66",
+		"stock_close": "121.63",
+		"stock_volume": 30377503,
+		"created": "2017-07-14T16:05:27.100Z",
+		"updated": "2017-07-14T16:05:27.100Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 249,
+	"fields": {
+		"stock_id": 2,
+		"stock_date": "2017-01-27T00:00:00Z",
+		"stock_open": "122.14",
+		"stock_high": "122.35",
+		"stock_low": "121.60",
+		"stock_close": "121.95",
+		"stock_volume": 20562944,
+		"created": "2017-07-14T16:05:27.101Z",
+		"updated": "2017-07-14T16:05:27.101Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 250,
+	"fields": {
+		"stock_id": 2,
+		"stock_date": "2017-01-26T00:00:00Z",
+		"stock_open": "121.67",
+		"stock_high": "122.44",
+		"stock_low": "121.60",
+		"stock_close": "121.94",
+		"stock_volume": 26337576,
+		"created": "2017-07-14T16:05:27.102Z",
+		"updated": "2017-07-14T16:05:27.102Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 251,
+	"fields": {
+		"stock_id": 2,
+		"stock_date": "2017-01-25T00:00:00Z",
+		"stock_open": "120.42",
+		"stock_high": "122.10",
+		"stock_low": "120.28",
+		"stock_close": "121.88",
+		"stock_volume": 32586673,
+		"created": "2017-07-14T16:05:27.103Z",
+		"updated": "2017-07-14T16:05:27.103Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 252,
+	"fields": {
+		"stock_id": 2,
+		"stock_date": "2017-01-24T00:00:00Z",
+		"stock_open": "119.55",
+		"stock_high": "120.10",
+		"stock_low": "119.50",
+		"stock_close": "119.97",
+		"stock_volume": 23211038,
+		"created": "2017-07-14T16:05:27.104Z",
+		"updated": "2017-07-14T16:05:27.104Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 253,
+	"fields": {
+		"stock_id": 2,
+		"stock_date": "2017-01-23T00:00:00Z",
+		"stock_open": "120.00",
+		"stock_high": "120.81",
+		"stock_low": "119.77",
+		"stock_close": "120.08",
+		"stock_volume": 22050218,
+		"created": "2017-07-14T16:05:27.105Z",
+		"updated": "2017-07-14T16:05:27.105Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 254,
+	"fields": {
+		"stock_id": 2,
+		"stock_date": "2017-01-20T00:00:00Z",
+		"stock_open": "120.45",
+		"stock_high": "120.45",
+		"stock_low": "119.73",
+		"stock_close": "120.00",
+		"stock_volume": 32597892,
+		"created": "2017-07-14T16:05:27.106Z",
+		"updated": "2017-07-14T16:05:27.106Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 255,
+	"fields": {
+		"stock_id": 2,
+		"stock_date": "2017-01-19T00:00:00Z",
+		"stock_open": "119.40",
+		"stock_high": "120.09",
+		"stock_low": "119.37",
+		"stock_close": "119.78",
+		"stock_volume": 25597291,
+		"created": "2017-07-14T16:05:27.107Z",
+		"updated": "2017-07-14T16:05:27.107Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 256,
+	"fields": {
+		"stock_id": 2,
+		"stock_date": "2017-01-18T00:00:00Z",
+		"stock_open": "120.00",
+		"stock_high": "120.50",
+		"stock_low": "119.71",
+		"stock_close": "119.99",
+		"stock_volume": 23712961,
+		"created": "2017-07-14T16:05:27.108Z",
+		"updated": "2017-07-14T16:05:27.108Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 257,
+	"fields": {
+		"stock_id": 2,
+		"stock_date": "2017-01-17T00:00:00Z",
+		"stock_open": "118.34",
+		"stock_high": "120.24",
+		"stock_low": "118.22",
+		"stock_close": "120.00",
+		"stock_volume": 34439843,
+		"created": "2017-07-14T16:05:27.109Z",
+		"updated": "2017-07-14T16:05:27.109Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 258,
+	"fields": {
+		"stock_id": 2,
+		"stock_date": "2017-01-13T00:00:00Z",
+		"stock_open": "119.11",
+		"stock_high": "119.62",
+		"stock_low": "118.81",
+		"stock_close": "119.04",
+		"stock_volume": 26111948,
+		"created": "2017-07-14T16:05:27.110Z",
+		"updated": "2017-07-14T16:05:27.110Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 259,
+	"fields": {
+		"stock_id": 2,
+		"stock_date": "2017-01-12T00:00:00Z",
+		"stock_open": "118.90",
+		"stock_high": "119.30",
+		"stock_low": "118.21",
+		"stock_close": "119.25",
+		"stock_volume": 27086220,
+		"created": "2017-07-14T16:05:27.111Z",
+		"updated": "2017-07-14T16:05:27.111Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 260,
+	"fields": {
+		"stock_id": 2,
+		"stock_date": "2017-01-11T00:00:00Z",
+		"stock_open": "118.74",
+		"stock_high": "119.93",
+		"stock_low": "118.60",
+		"stock_close": "119.75",
+		"stock_volume": 27588593,
+		"created": "2017-07-14T16:05:27.112Z",
+		"updated": "2017-07-14T16:05:27.112Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 261,
+	"fields": {
+		"stock_id": 2,
+		"stock_date": "2017-01-10T00:00:00Z",
+		"stock_open": "118.77",
+		"stock_high": "119.38",
+		"stock_low": "118.30",
+		"stock_close": "119.11",
+		"stock_volume": 24462051,
+		"created": "2017-07-14T16:05:27.113Z",
+		"updated": "2017-07-14T16:05:27.113Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 262,
+	"fields": {
+		"stock_id": 2,
+		"stock_date": "2017-01-09T00:00:00Z",
+		"stock_open": "117.95",
+		"stock_high": "119.43",
+		"stock_low": "117.94",
+		"stock_close": "118.99",
+		"stock_volume": 33561948,
+		"created": "2017-07-14T16:05:27.114Z",
+		"updated": "2017-07-14T16:05:27.114Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 263,
+	"fields": {
+		"stock_id": 2,
+		"stock_date": "2017-01-06T00:00:00Z",
+		"stock_open": "116.78",
+		"stock_high": "118.16",
+		"stock_low": "116.47",
+		"stock_close": "117.91",
+		"stock_volume": 31751900,
+		"created": "2017-07-14T16:05:27.115Z",
+		"updated": "2017-07-14T16:05:27.115Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 264,
+	"fields": {
+		"stock_id": 2,
+		"stock_date": "2017-01-05T00:00:00Z",
+		"stock_open": "115.92",
+		"stock_high": "116.86",
+		"stock_low": "115.81",
+		"stock_close": "116.61",
+		"stock_volume": 22193587,
+		"created": "2017-07-14T16:05:27.116Z",
+		"updated": "2017-07-14T16:05:27.116Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 265,
+	"fields": {
+		"stock_id": 2,
+		"stock_date": "2017-01-04T00:00:00Z",
+		"stock_open": "115.85",
+		"stock_high": "116.51",
+		"stock_low": "115.75",
+		"stock_close": "116.02",
+		"stock_volume": 21118116,
+		"created": "2017-07-14T16:05:27.117Z",
+		"updated": "2017-07-14T16:05:27.117Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 266,
+	"fields": {
+		"stock_id": 2,
+		"stock_date": "2017-01-03T00:00:00Z",
+		"stock_open": "115.80",
+		"stock_high": "116.33",
+		"stock_low": "114.76",
+		"stock_close": "116.15",
+		"stock_volume": 28781865,
+		"created": "2017-07-14T16:05:27.118Z",
+		"updated": "2017-07-14T16:05:27.118Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 267,
+	"fields": {
+		"stock_id": 3,
+		"stock_date": "2017-07-13T00:00:00Z",
+		"stock_open": "9.88",
+		"stock_high": "9.96",
+		"stock_low": "9.82",
+		"stock_close": "9.89",
+		"stock_volume": 2697712,
+		"created": "2017-07-14T16:05:27.382Z",
+		"updated": "2017-07-14T16:05:27.382Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 268,
+	"fields": {
+		"stock_id": 3,
+		"stock_date": "2017-07-12T00:00:00Z",
+		"stock_open": "10.00",
+		"stock_high": "10.04",
+		"stock_low": "9.89",
+		"stock_close": "9.90",
+		"stock_volume": 3879983,
+		"created": "2017-07-14T16:05:27.383Z",
+		"updated": "2017-07-14T16:05:27.383Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 269,
+	"fields": {
+		"stock_id": 3,
+		"stock_date": "2017-07-11T00:00:00Z",
+		"stock_open": "9.85",
+		"stock_high": "9.95",
+		"stock_low": "9.79",
+		"stock_close": "9.94",
+		"stock_volume": 3233592,
+		"created": "2017-07-14T16:05:27.384Z",
+		"updated": "2017-07-14T16:05:27.384Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 270,
+	"fields": {
+		"stock_id": 3,
+		"stock_date": "2017-07-10T00:00:00Z",
+		"stock_open": "9.90",
+		"stock_high": "9.93",
+		"stock_low": "9.76",
+		"stock_close": "9.86",
+		"stock_volume": 3455831,
+		"created": "2017-07-14T16:05:27.385Z",
+		"updated": "2017-07-14T16:05:27.385Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 271,
+	"fields": {
+		"stock_id": 3,
+		"stock_date": "2017-07-07T00:00:00Z",
+		"stock_open": "9.73",
+		"stock_high": "9.93",
+		"stock_low": "9.73",
+		"stock_close": "9.90",
+		"stock_volume": 4338427,
+		"created": "2017-07-14T16:05:27.386Z",
+		"updated": "2017-07-14T16:05:27.386Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 272,
+	"fields": {
+		"stock_id": 3,
+		"stock_date": "2017-07-06T00:00:00Z",
+		"stock_open": "9.85",
+		"stock_high": "9.88",
+		"stock_low": "9.70",
+		"stock_close": "9.71",
+		"stock_volume": 4121084,
+		"created": "2017-07-14T16:05:27.387Z",
+		"updated": "2017-07-14T16:05:27.387Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 273,
+	"fields": {
+		"stock_id": 3,
+		"stock_date": "2017-07-05T00:00:00Z",
+		"stock_open": "9.90",
+		"stock_high": "9.90",
+		"stock_low": "9.69",
+		"stock_close": "9.90",
+		"stock_volume": 6879483,
+		"created": "2017-07-14T16:05:27.388Z",
+		"updated": "2017-07-14T16:05:27.388Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 274,
+	"fields": {
+		"stock_id": 3,
+		"stock_date": "2017-07-03T00:00:00Z",
+		"stock_open": "9.98",
+		"stock_high": "10.11",
+		"stock_low": "9.90",
+		"stock_close": "9.91",
+		"stock_volume": 2265504,
+		"created": "2017-07-14T16:05:27.389Z",
+		"updated": "2017-07-14T16:05:27.389Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 275,
+	"fields": {
+		"stock_id": 3,
+		"stock_date": "2017-06-30T00:00:00Z",
+		"stock_open": "10.08",
+		"stock_high": "10.08",
+		"stock_low": "9.80",
+		"stock_close": "9.99",
+		"stock_volume": 5770312,
+		"created": "2017-07-14T16:05:27.390Z",
+		"updated": "2017-07-14T16:05:27.390Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 276,
+	"fields": {
+		"stock_id": 3,
+		"stock_date": "2017-06-29T00:00:00Z",
+		"stock_open": "10.22",
+		"stock_high": "10.23",
+		"stock_low": "9.90",
+		"stock_close": "10.00",
+		"stock_volume": 7917177,
+		"created": "2017-07-14T16:05:27.391Z",
+		"updated": "2017-07-14T16:05:27.391Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 277,
+	"fields": {
+		"stock_id": 3,
+		"stock_date": "2017-06-28T00:00:00Z",
+		"stock_open": "10.08",
+		"stock_high": "10.30",
+		"stock_low": "10.04",
+		"stock_close": "10.23",
+		"stock_volume": 7327706,
+		"created": "2017-07-14T16:05:27.392Z",
+		"updated": "2017-07-14T16:05:27.392Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 278,
+	"fields": {
+		"stock_id": 3,
+		"stock_date": "2017-06-27T00:00:00Z",
+		"stock_open": "10.10",
+		"stock_high": "10.42",
+		"stock_low": "9.97",
+		"stock_close": "9.99",
+		"stock_volume": 12184147,
+		"created": "2017-07-14T16:05:27.393Z",
+		"updated": "2017-07-14T16:05:27.393Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 279,
+	"fields": {
+		"stock_id": 3,
+		"stock_date": "2017-06-26T00:00:00Z",
+		"stock_open": "9.60",
+		"stock_high": "10.32",
+		"stock_low": "9.52",
+		"stock_close": "10.26",
+		"stock_volume": 19926162,
+		"created": "2017-07-14T16:05:27.394Z",
+		"updated": "2017-07-14T16:05:27.394Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 280,
+	"fields": {
+		"stock_id": 3,
+		"stock_date": "2017-06-23T00:00:00Z",
+		"stock_open": "10.21",
+		"stock_high": "10.27",
+		"stock_low": "9.62",
+		"stock_close": "9.71",
+		"stock_volume": 39609765,
+		"created": "2017-07-14T16:05:27.395Z",
+		"updated": "2017-07-14T16:05:27.395Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 281,
+	"fields": {
+		"stock_id": 3,
+		"stock_date": "2017-06-22T00:00:00Z",
+		"stock_open": "10.72",
+		"stock_high": "11.14",
+		"stock_low": "10.46",
+		"stock_close": "11.06",
+		"stock_volume": 17369972,
+		"created": "2017-07-14T16:05:27.396Z",
+		"updated": "2017-07-14T16:05:27.396Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 282,
+	"fields": {
+		"stock_id": 3,
+		"stock_date": "2017-06-21T00:00:00Z",
+		"stock_open": "10.78",
+		"stock_high": "10.79",
+		"stock_low": "10.52",
+		"stock_close": "10.65",
+		"stock_volume": 7015445,
+		"created": "2017-07-14T16:05:27.397Z",
+		"updated": "2017-07-14T16:05:27.397Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 283,
+	"fields": {
+		"stock_id": 3,
+		"stock_date": "2017-06-20T00:00:00Z",
+		"stock_open": "10.76",
+		"stock_high": "10.87",
+		"stock_low": "10.65",
+		"stock_close": "10.73",
+		"stock_volume": 4175259,
+		"created": "2017-07-14T16:05:27.398Z",
+		"updated": "2017-07-14T16:05:27.398Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 284,
+	"fields": {
+		"stock_id": 3,
+		"stock_date": "2017-06-19T00:00:00Z",
+		"stock_open": "10.63",
+		"stock_high": "10.83",
+		"stock_low": "10.59",
+		"stock_close": "10.74",
+		"stock_volume": 5546177,
+		"created": "2017-07-14T16:05:27.399Z",
+		"updated": "2017-07-14T16:05:27.399Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 285,
+	"fields": {
+		"stock_id": 3,
+		"stock_date": "2017-06-16T00:00:00Z",
+		"stock_open": "10.50",
+		"stock_high": "10.66",
+		"stock_low": "10.44",
+		"stock_close": "10.53",
+		"stock_volume": 4634044,
+		"created": "2017-07-14T16:05:27.400Z",
+		"updated": "2017-07-14T16:05:27.400Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 286,
+	"fields": {
+		"stock_id": 3,
+		"stock_date": "2017-06-15T00:00:00Z",
+		"stock_open": "10.45",
+		"stock_high": "10.54",
+		"stock_low": "10.34",
+		"stock_close": "10.54",
+		"stock_volume": 5037628,
+		"created": "2017-07-14T16:05:27.401Z",
+		"updated": "2017-07-14T16:05:27.401Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 287,
+	"fields": {
+		"stock_id": 3,
+		"stock_date": "2017-06-14T00:00:00Z",
+		"stock_open": "10.93",
+		"stock_high": "10.93",
+		"stock_low": "10.45",
+		"stock_close": "10.57",
+		"stock_volume": 5495805,
+		"created": "2017-07-14T16:05:27.402Z",
+		"updated": "2017-07-14T16:05:27.402Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 288,
+	"fields": {
+		"stock_id": 3,
+		"stock_date": "2017-06-13T00:00:00Z",
+		"stock_open": "10.71",
+		"stock_high": "10.86",
+		"stock_low": "10.59",
+		"stock_close": "10.84",
+		"stock_volume": 5072176,
+		"created": "2017-07-14T16:05:27.403Z",
+		"updated": "2017-07-14T16:05:27.403Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 289,
+	"fields": {
+		"stock_id": 3,
+		"stock_date": "2017-06-12T00:00:00Z",
+		"stock_open": "11.09",
+		"stock_high": "11.09",
+		"stock_low": "10.56",
+		"stock_close": "10.60",
+		"stock_volume": 12574821,
+		"created": "2017-07-14T16:05:27.404Z",
+		"updated": "2017-07-14T16:05:27.404Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 290,
+	"fields": {
+		"stock_id": 3,
+		"stock_date": "2017-06-09T00:00:00Z",
+		"stock_open": "11.27",
+		"stock_high": "11.63",
+		"stock_low": "10.78",
+		"stock_close": "11.03",
+		"stock_volume": 16248432,
+		"created": "2017-07-14T16:05:27.405Z",
+		"updated": "2017-07-14T16:05:27.405Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 291,
+	"fields": {
+		"stock_id": 3,
+		"stock_date": "2017-06-08T00:00:00Z",
+		"stock_open": "11.05",
+		"stock_high": "11.19",
+		"stock_low": "10.97",
+		"stock_close": "11.17",
+		"stock_volume": 5748308,
+		"created": "2017-07-14T16:05:27.406Z",
+		"updated": "2017-07-14T16:05:27.406Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 292,
+	"fields": {
+		"stock_id": 3,
+		"stock_date": "2017-06-07T00:00:00Z",
+		"stock_open": "11.19",
+		"stock_high": "11.34",
+		"stock_low": "11.00",
+		"stock_close": "11.04",
+		"stock_volume": 8397900,
+		"created": "2017-07-14T16:05:27.407Z",
+		"updated": "2017-07-14T16:05:27.407Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 293,
+	"fields": {
+		"stock_id": 3,
+		"stock_date": "2017-06-06T00:00:00Z",
+		"stock_open": "11.03",
+		"stock_high": "11.29",
+		"stock_low": "10.98",
+		"stock_close": "11.15",
+		"stock_volume": 8152070,
+		"created": "2017-07-14T16:05:27.408Z",
+		"updated": "2017-07-14T16:05:27.408Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 294,
+	"fields": {
+		"stock_id": 3,
+		"stock_date": "2017-06-05T00:00:00Z",
+		"stock_open": "11.36",
+		"stock_high": "11.44",
+		"stock_low": "11.07",
+		"stock_close": "11.15",
+		"stock_volume": 10889287,
+		"created": "2017-07-14T16:05:27.409Z",
+		"updated": "2017-07-14T16:05:27.409Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 295,
+	"fields": {
+		"stock_id": 3,
+		"stock_date": "2017-06-02T00:00:00Z",
+		"stock_open": "11.46",
+		"stock_high": "11.48",
+		"stock_low": "10.90",
+		"stock_close": "11.29",
+		"stock_volume": 22925270,
+		"created": "2017-07-14T16:05:27.410Z",
+		"updated": "2017-07-14T16:05:27.410Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 296,
+	"fields": {
+		"stock_id": 3,
+		"stock_date": "2017-06-01T00:00:00Z",
+		"stock_open": "10.66",
+		"stock_high": "11.74",
+		"stock_low": "10.65",
+		"stock_close": "11.39",
+		"stock_volume": 36840579,
+		"created": "2017-07-14T16:05:27.411Z",
+		"updated": "2017-07-14T16:05:27.411Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 297,
+	"fields": {
+		"stock_id": 3,
+		"stock_date": "2017-05-31T00:00:00Z",
+		"stock_open": "10.65",
+		"stock_high": "10.73",
+		"stock_low": "10.44",
+		"stock_close": "10.57",
+		"stock_volume": 6540859,
+		"created": "2017-07-14T16:05:27.412Z",
+		"updated": "2017-07-14T16:05:27.412Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 298,
+	"fields": {
+		"stock_id": 3,
+		"stock_date": "2017-05-30T00:00:00Z",
+		"stock_open": "10.83",
+		"stock_high": "10.96",
+		"stock_low": "10.52",
+		"stock_close": "10.61",
+		"stock_volume": 11583883,
+		"created": "2017-07-14T16:05:27.413Z",
+		"updated": "2017-07-14T16:05:27.413Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 299,
+	"fields": {
+		"stock_id": 3,
+		"stock_date": "2017-05-26T00:00:00Z",
+		"stock_open": "11.43",
+		"stock_high": "11.55",
+		"stock_low": "11.07",
+		"stock_close": "11.11",
+		"stock_volume": 10412970,
+		"created": "2017-07-14T16:05:27.414Z",
+		"updated": "2017-07-14T16:05:27.414Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 300,
+	"fields": {
+		"stock_id": 3,
+		"stock_date": "2017-05-25T00:00:00Z",
+		"stock_open": "11.16",
+		"stock_high": "11.37",
+		"stock_low": "11.04",
+		"stock_close": "11.22",
+		"stock_volume": 8826689,
+		"created": "2017-07-14T16:05:27.415Z",
+		"updated": "2017-07-14T16:05:27.415Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 301,
+	"fields": {
+		"stock_id": 3,
+		"stock_date": "2017-05-24T00:00:00Z",
+		"stock_open": "11.39",
+		"stock_high": "11.39",
+		"stock_low": "11.01",
+		"stock_close": "11.09",
+		"stock_volume": 7253110,
+		"created": "2017-07-14T16:05:27.416Z",
+		"updated": "2017-07-14T16:05:27.416Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 302,
+	"fields": {
+		"stock_id": 3,
+		"stock_date": "2017-05-23T00:00:00Z",
+		"stock_open": "11.28",
+		"stock_high": "11.39",
+		"stock_low": "11.10",
+		"stock_close": "11.30",
+		"stock_volume": 16322456,
+		"created": "2017-07-14T16:05:27.417Z",
+		"updated": "2017-07-14T16:05:27.417Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 303,
+	"fields": {
+		"stock_id": 3,
+		"stock_date": "2017-05-22T00:00:00Z",
+		"stock_open": "10.43",
+		"stock_high": "11.38",
+		"stock_low": "10.40",
+		"stock_close": "11.32",
+		"stock_volume": 22139852,
+		"created": "2017-07-14T16:05:27.418Z",
+		"updated": "2017-07-14T16:05:27.418Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 304,
+	"fields": {
+		"stock_id": 3,
+		"stock_date": "2017-05-19T00:00:00Z",
+		"stock_open": "10.21",
+		"stock_high": "10.42",
+		"stock_low": "10.09",
+		"stock_close": "10.38",
+		"stock_volume": 6777929,
+		"created": "2017-07-14T16:05:27.419Z",
+		"updated": "2017-07-14T16:05:27.419Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 305,
+	"fields": {
+		"stock_id": 3,
+		"stock_date": "2017-05-18T00:00:00Z",
+		"stock_open": "10.09",
+		"stock_high": "10.28",
+		"stock_low": "9.95",
+		"stock_close": "10.11",
+		"stock_volume": 6684260,
+		"created": "2017-07-14T16:05:27.420Z",
+		"updated": "2017-07-14T16:05:27.420Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 306,
+	"fields": {
+		"stock_id": 3,
+		"stock_date": "2017-05-17T00:00:00Z",
+		"stock_open": "10.04",
+		"stock_high": "10.25",
+		"stock_low": "10.01",
+		"stock_close": "10.10",
+		"stock_volume": 13326851,
+		"created": "2017-07-14T16:05:27.421Z",
+		"updated": "2017-07-14T16:05:27.421Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 307,
+	"fields": {
+		"stock_id": 3,
+		"stock_date": "2017-05-16T00:00:00Z",
+		"stock_open": "9.67",
+		"stock_high": "10.41",
+		"stock_low": "9.65",
+		"stock_close": "10.18",
+		"stock_volume": 19818620,
+		"created": "2017-07-14T16:05:27.422Z",
+		"updated": "2017-07-14T16:05:27.422Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 308,
+	"fields": {
+		"stock_id": 3,
+		"stock_date": "2017-05-15T00:00:00Z",
+		"stock_open": "9.45",
+		"stock_high": "9.78",
+		"stock_low": "9.45",
+		"stock_close": "9.63",
+		"stock_volume": 6920993,
+		"created": "2017-07-14T16:05:27.423Z",
+		"updated": "2017-07-14T16:05:27.423Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 309,
+	"fields": {
+		"stock_id": 3,
+		"stock_date": "2017-05-12T00:00:00Z",
+		"stock_open": "9.35",
+		"stock_high": "9.38",
+		"stock_low": "9.24",
+		"stock_close": "9.35",
+		"stock_volume": 2274640,
+		"created": "2017-07-14T16:05:27.424Z",
+		"updated": "2017-07-14T16:05:27.424Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 310,
+	"fields": {
+		"stock_id": 3,
+		"stock_date": "2017-05-11T00:00:00Z",
+		"stock_open": "9.45",
+		"stock_high": "9.49",
+		"stock_low": "9.37",
+		"stock_close": "9.38",
+		"stock_volume": 2232875,
+		"created": "2017-07-14T16:05:27.425Z",
+		"updated": "2017-07-14T16:05:27.425Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 311,
+	"fields": {
+		"stock_id": 3,
+		"stock_date": "2017-05-10T00:00:00Z",
+		"stock_open": "9.47",
+		"stock_high": "9.56",
+		"stock_low": "9.44",
+		"stock_close": "9.52",
+		"stock_volume": 2503774,
+		"created": "2017-07-14T16:05:27.426Z",
+		"updated": "2017-07-14T16:05:27.426Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 312,
+	"fields": {
+		"stock_id": 3,
+		"stock_date": "2017-05-09T00:00:00Z",
+		"stock_open": "9.44",
+		"stock_high": "9.50",
+		"stock_low": "9.40",
+		"stock_close": "9.47",
+		"stock_volume": 2906350,
+		"created": "2017-07-14T16:05:27.427Z",
+		"updated": "2017-07-14T16:05:27.427Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 313,
+	"fields": {
+		"stock_id": 3,
+		"stock_date": "2017-05-08T00:00:00Z",
+		"stock_open": "9.50",
+		"stock_high": "9.60",
+		"stock_low": "9.40",
+		"stock_close": "9.40",
+		"stock_volume": 3529262,
+		"created": "2017-07-14T16:05:27.428Z",
+		"updated": "2017-07-14T16:05:27.428Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 314,
+	"fields": {
+		"stock_id": 3,
+		"stock_date": "2017-05-05T00:00:00Z",
+		"stock_open": "9.23",
+		"stock_high": "9.50",
+		"stock_low": "9.23",
+		"stock_close": "9.49",
+		"stock_volume": 4147514,
+		"created": "2017-07-14T16:05:27.429Z",
+		"updated": "2017-07-14T16:05:27.429Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 315,
+	"fields": {
+		"stock_id": 3,
+		"stock_date": "2017-05-04T00:00:00Z",
+		"stock_open": "9.26",
+		"stock_high": "9.31",
+		"stock_low": "9.19",
+		"stock_close": "9.25",
+		"stock_volume": 3042411,
+		"created": "2017-07-14T16:05:27.430Z",
+		"updated": "2017-07-14T16:05:27.430Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 316,
+	"fields": {
+		"stock_id": 3,
+		"stock_date": "2017-05-03T00:00:00Z",
+		"stock_open": "9.22",
+		"stock_high": "9.35",
+		"stock_low": "9.20",
+		"stock_close": "9.27",
+		"stock_volume": 3165296,
+		"created": "2017-07-14T16:05:27.431Z",
+		"updated": "2017-07-14T16:05:27.431Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 317,
+	"fields": {
+		"stock_id": 3,
+		"stock_date": "2017-05-02T00:00:00Z",
+		"stock_open": "9.31",
+		"stock_high": "9.35",
+		"stock_low": "9.25",
+		"stock_close": "9.27",
+		"stock_volume": 3568532,
+		"created": "2017-07-14T16:05:27.432Z",
+		"updated": "2017-07-14T16:05:27.432Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 318,
+	"fields": {
+		"stock_id": 3,
+		"stock_date": "2017-05-01T00:00:00Z",
+		"stock_open": "9.34",
+		"stock_high": "9.40",
+		"stock_low": "9.31",
+		"stock_close": "9.32",
+		"stock_volume": 4174950,
+		"created": "2017-07-14T16:05:27.433Z",
+		"updated": "2017-07-14T16:05:27.434Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 319,
+	"fields": {
+		"stock_id": 3,
+		"stock_date": "2017-04-28T00:00:00Z",
+		"stock_open": "9.29",
+		"stock_high": "9.36",
+		"stock_low": "9.15",
+		"stock_close": "9.34",
+		"stock_volume": 7272366,
+		"created": "2017-07-14T16:05:27.434Z",
+		"updated": "2017-07-14T16:05:27.435Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 320,
+	"fields": {
+		"stock_id": 3,
+		"stock_date": "2017-04-27T00:00:00Z",
+		"stock_open": "9.25",
+		"stock_high": "9.32",
+		"stock_low": "9.17",
+		"stock_close": "9.32",
+		"stock_volume": 5899079,
+		"created": "2017-07-14T16:05:27.436Z",
+		"updated": "2017-07-14T16:05:27.436Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 321,
+	"fields": {
+		"stock_id": 3,
+		"stock_date": "2017-04-26T00:00:00Z",
+		"stock_open": "9.18",
+		"stock_high": "9.24",
+		"stock_low": "9.10",
+		"stock_close": "9.20",
+		"stock_volume": 7981272,
+		"created": "2017-07-14T16:05:27.438Z",
+		"updated": "2017-07-14T16:05:27.438Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 322,
+	"fields": {
+		"stock_id": 3,
+		"stock_date": "2017-04-25T00:00:00Z",
+		"stock_open": "9.24",
+		"stock_high": "9.33",
+		"stock_low": "9.15",
+		"stock_close": "9.19",
+		"stock_volume": 13183008,
+		"created": "2017-07-14T16:05:27.439Z",
+		"updated": "2017-07-14T16:05:27.439Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 323,
+	"fields": {
+		"stock_id": 3,
+		"stock_date": "2017-04-24T00:00:00Z",
+		"stock_open": "9.15",
+		"stock_high": "9.30",
+		"stock_low": "9.14",
+		"stock_close": "9.29",
+		"stock_volume": 11215986,
+		"created": "2017-07-14T16:05:27.441Z",
+		"updated": "2017-07-14T16:05:27.441Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 324,
+	"fields": {
+		"stock_id": 3,
+		"stock_date": "2017-04-21T00:00:00Z",
+		"stock_open": "9.11",
+		"stock_high": "9.15",
+		"stock_low": "9.04",
+		"stock_close": "9.08",
+		"stock_volume": 8666767,
+		"created": "2017-07-14T16:05:27.442Z",
+		"updated": "2017-07-14T16:05:27.442Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 325,
+	"fields": {
+		"stock_id": 3,
+		"stock_date": "2017-04-20T00:00:00Z",
+		"stock_open": "8.95",
+		"stock_high": "9.13",
+		"stock_low": "8.88",
+		"stock_close": "9.10",
+		"stock_volume": 12430541,
+		"created": "2017-07-14T16:05:27.443Z",
+		"updated": "2017-07-14T16:05:27.443Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 326,
+	"fields": {
+		"stock_id": 3,
+		"stock_date": "2017-04-19T00:00:00Z",
+		"stock_open": "8.71",
+		"stock_high": "9.04",
+		"stock_low": "8.71",
+		"stock_close": "8.93",
+		"stock_volume": 9211003,
+		"created": "2017-07-14T16:05:27.444Z",
+		"updated": "2017-07-14T16:05:27.444Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 327,
+	"fields": {
+		"stock_id": 3,
+		"stock_date": "2017-04-18T00:00:00Z",
+		"stock_open": "8.68",
+		"stock_high": "8.77",
+		"stock_low": "8.63",
+		"stock_close": "8.73",
+		"stock_volume": 8169013,
+		"created": "2017-07-14T16:05:27.445Z",
+		"updated": "2017-07-14T16:05:27.445Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 328,
+	"fields": {
+		"stock_id": 3,
+		"stock_date": "2017-04-17T00:00:00Z",
+		"stock_open": "8.70",
+		"stock_high": "8.82",
+		"stock_low": "8.67",
+		"stock_close": "8.77",
+		"stock_volume": 6078150,
+		"created": "2017-07-14T16:05:27.446Z",
+		"updated": "2017-07-14T16:05:27.446Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 329,
+	"fields": {
+		"stock_id": 3,
+		"stock_date": "2017-04-13T00:00:00Z",
+		"stock_open": "8.95",
+		"stock_high": "8.95",
+		"stock_low": "8.60",
+		"stock_close": "8.64",
+		"stock_volume": 14637083,
+		"created": "2017-07-14T16:05:27.447Z",
+		"updated": "2017-07-14T16:05:27.447Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 330,
+	"fields": {
+		"stock_id": 3,
+		"stock_date": "2017-04-12T00:00:00Z",
+		"stock_open": "9.09",
+		"stock_high": "9.19",
+		"stock_low": "8.80",
+		"stock_close": "8.93",
+		"stock_volume": 48748887,
+		"created": "2017-07-14T16:05:27.448Z",
+		"updated": "2017-07-14T16:05:27.448Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 331,
+	"fields": {
+		"stock_id": 3,
+		"stock_date": "2017-04-11T00:00:00Z",
+		"stock_open": "7.68",
+		"stock_high": "7.70",
+		"stock_low": "7.51",
+		"stock_close": "7.70",
+		"stock_volume": 6422667,
+		"created": "2017-07-14T16:05:27.449Z",
+		"updated": "2017-07-14T16:05:27.449Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 332,
+	"fields": {
+		"stock_id": 3,
+		"stock_date": "2017-04-10T00:00:00Z",
+		"stock_open": "7.85",
+		"stock_high": "7.86",
+		"stock_low": "7.71",
+		"stock_close": "7.71",
+		"stock_volume": 3800044,
+		"created": "2017-07-14T16:05:27.450Z",
+		"updated": "2017-07-14T16:05:27.450Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 333,
+	"fields": {
+		"stock_id": 3,
+		"stock_date": "2017-04-07T00:00:00Z",
+		"stock_open": "7.91",
+		"stock_high": "7.97",
+		"stock_low": "7.81",
+		"stock_close": "7.81",
+		"stock_volume": 5864887,
+		"created": "2017-07-14T16:05:27.451Z",
+		"updated": "2017-07-14T16:05:27.451Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 334,
+	"fields": {
+		"stock_id": 3,
+		"stock_date": "2017-04-06T00:00:00Z",
+		"stock_open": "7.94",
+		"stock_high": "8.00",
+		"stock_low": "7.87",
+		"stock_close": "7.92",
+		"stock_volume": 6287261,
+		"created": "2017-07-14T16:05:27.452Z",
+		"updated": "2017-07-14T16:05:27.452Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 335,
+	"fields": {
+		"stock_id": 3,
+		"stock_date": "2017-04-05T00:00:00Z",
+		"stock_open": "8.10",
+		"stock_high": "8.12",
+		"stock_low": "7.92",
+		"stock_close": "7.92",
+		"stock_volume": 11054914,
+		"created": "2017-07-14T16:05:27.453Z",
+		"updated": "2017-07-14T16:05:27.453Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 336,
+	"fields": {
+		"stock_id": 3,
+		"stock_date": "2017-04-04T00:00:00Z",
+		"stock_open": "7.75",
+		"stock_high": "8.20",
+		"stock_low": "7.72",
+		"stock_close": "8.07",
+		"stock_volume": 16773334,
+		"created": "2017-07-14T16:05:27.454Z",
+		"updated": "2017-07-14T16:05:27.454Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 337,
+	"fields": {
+		"stock_id": 3,
+		"stock_date": "2017-04-03T00:00:00Z",
+		"stock_open": "7.88",
+		"stock_high": "7.89",
+		"stock_low": "7.52",
+		"stock_close": "7.80",
+		"stock_volume": 15657961,
+		"created": "2017-07-14T16:05:27.455Z",
+		"updated": "2017-07-14T16:05:27.455Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 338,
+	"fields": {
+		"stock_id": 3,
+		"stock_date": "2017-03-31T00:00:00Z",
+		"stock_open": "7.53",
+		"stock_high": "8.08",
+		"stock_low": "7.47",
+		"stock_close": "7.75",
+		"stock_volume": 53837350,
+		"created": "2017-07-14T16:05:27.456Z",
+		"updated": "2017-07-14T16:05:27.456Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 339,
+	"fields": {
+		"stock_id": 3,
+		"stock_date": "2017-03-30T00:00:00Z",
+		"stock_open": "7.02",
+		"stock_high": "7.05",
+		"stock_low": "6.83",
+		"stock_close": "6.95",
+		"stock_volume": 9142257,
+		"created": "2017-07-14T16:05:27.457Z",
+		"updated": "2017-07-14T16:05:27.457Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 340,
+	"fields": {
+		"stock_id": 3,
+		"stock_date": "2017-03-29T00:00:00Z",
+		"stock_open": "7.03",
+		"stock_high": "7.08",
+		"stock_low": "6.98",
+		"stock_close": "7.01",
+		"stock_volume": 5652839,
+		"created": "2017-07-14T16:05:27.458Z",
+		"updated": "2017-07-14T16:05:27.458Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 341,
+	"fields": {
+		"stock_id": 3,
+		"stock_date": "2017-03-28T00:00:00Z",
+		"stock_open": "7.07",
+		"stock_high": "7.10",
+		"stock_low": "7.00",
+		"stock_close": "7.03",
+		"stock_volume": 3253934,
+		"created": "2017-07-14T16:05:27.459Z",
+		"updated": "2017-07-14T16:05:27.459Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 342,
+	"fields": {
+		"stock_id": 3,
+		"stock_date": "2017-03-27T00:00:00Z",
+		"stock_open": "6.97",
+		"stock_high": "7.09",
+		"stock_low": "6.95",
+		"stock_close": "7.09",
+		"stock_volume": 2993227,
+		"created": "2017-07-14T16:05:27.460Z",
+		"updated": "2017-07-14T16:05:27.460Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 343,
+	"fields": {
+		"stock_id": 3,
+		"stock_date": "2017-03-24T00:00:00Z",
+		"stock_open": "7.15",
+		"stock_high": "7.16",
+		"stock_low": "7.01",
+		"stock_close": "7.07",
+		"stock_volume": 2654515,
+		"created": "2017-07-14T16:05:27.461Z",
+		"updated": "2017-07-14T16:05:27.461Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 344,
+	"fields": {
+		"stock_id": 3,
+		"stock_date": "2017-03-23T00:00:00Z",
+		"stock_open": "7.04",
+		"stock_high": "7.14",
+		"stock_low": "6.98",
+		"stock_close": "7.11",
+		"stock_volume": 2352426,
+		"created": "2017-07-14T16:05:27.462Z",
+		"updated": "2017-07-14T16:05:27.462Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 345,
+	"fields": {
+		"stock_id": 3,
+		"stock_date": "2017-03-22T00:00:00Z",
+		"stock_open": "7.00",
+		"stock_high": "7.05",
+		"stock_low": "6.90",
+		"stock_close": "7.04",
+		"stock_volume": 2129573,
+		"created": "2017-07-14T16:05:27.463Z",
+		"updated": "2017-07-14T16:05:27.463Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 346,
+	"fields": {
+		"stock_id": 3,
+		"stock_date": "2017-03-21T00:00:00Z",
+		"stock_open": "7.21",
+		"stock_high": "7.28",
+		"stock_low": "7.00",
+		"stock_close": "7.01",
+		"stock_volume": 3656819,
+		"created": "2017-07-14T16:05:27.464Z",
+		"updated": "2017-07-14T16:05:27.464Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 347,
+	"fields": {
+		"stock_id": 3,
+		"stock_date": "2017-03-20T00:00:00Z",
+		"stock_open": "7.16",
+		"stock_high": "7.20",
+		"stock_low": "7.06",
+		"stock_close": "7.20",
+		"stock_volume": 2602203,
+		"created": "2017-07-14T16:05:27.465Z",
+		"updated": "2017-07-14T16:05:27.465Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 348,
+	"fields": {
+		"stock_id": 3,
+		"stock_date": "2017-03-17T00:00:00Z",
+		"stock_open": "7.20",
+		"stock_high": "7.23",
+		"stock_low": "7.15",
+		"stock_close": "7.15",
+		"stock_volume": 2165501,
+		"created": "2017-07-14T16:05:27.466Z",
+		"updated": "2017-07-14T16:05:27.466Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 349,
+	"fields": {
+		"stock_id": 3,
+		"stock_date": "2017-03-16T00:00:00Z",
+		"stock_open": "7.15",
+		"stock_high": "7.20",
+		"stock_low": "7.11",
+		"stock_close": "7.17",
+		"stock_volume": 1568202,
+		"created": "2017-07-14T16:05:27.467Z",
+		"updated": "2017-07-14T16:05:27.467Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 350,
+	"fields": {
+		"stock_id": 3,
+		"stock_date": "2017-03-15T00:00:00Z",
+		"stock_open": "7.06",
+		"stock_high": "7.18",
+		"stock_low": "7.01",
+		"stock_close": "7.14",
+		"stock_volume": 3515901,
+		"created": "2017-07-14T16:05:27.468Z",
+		"updated": "2017-07-14T16:05:27.468Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 351,
+	"fields": {
+		"stock_id": 3,
+		"stock_date": "2017-03-14T00:00:00Z",
+		"stock_open": "7.05",
+		"stock_high": "7.07",
+		"stock_low": "6.95",
+		"stock_close": "7.04",
+		"stock_volume": 4203032,
+		"created": "2017-07-14T16:05:27.469Z",
+		"updated": "2017-07-14T16:05:27.469Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 352,
+	"fields": {
+		"stock_id": 3,
+		"stock_date": "2017-03-13T00:00:00Z",
+		"stock_open": "6.85",
+		"stock_high": "7.03",
+		"stock_low": "6.81",
+		"stock_close": "7.02",
+		"stock_volume": 4087454,
+		"created": "2017-07-14T16:05:27.470Z",
+		"updated": "2017-07-14T16:05:27.470Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 353,
+	"fields": {
+		"stock_id": 3,
+		"stock_date": "2017-03-10T00:00:00Z",
+		"stock_open": "6.81",
+		"stock_high": "6.84",
+		"stock_low": "6.76",
+		"stock_close": "6.84",
+		"stock_volume": 1826990,
+		"created": "2017-07-14T16:05:27.471Z",
+		"updated": "2017-07-14T16:05:27.471Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 354,
+	"fields": {
+		"stock_id": 3,
+		"stock_date": "2017-03-09T00:00:00Z",
+		"stock_open": "6.65",
+		"stock_high": "6.80",
+		"stock_low": "6.65",
+		"stock_close": "6.79",
+		"stock_volume": 3257170,
+		"created": "2017-07-14T16:05:27.472Z",
+		"updated": "2017-07-14T16:05:27.472Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 355,
+	"fields": {
+		"stock_id": 3,
+		"stock_date": "2017-03-08T00:00:00Z",
+		"stock_open": "6.78",
+		"stock_high": "6.81",
+		"stock_low": "6.66",
+		"stock_close": "6.68",
+		"stock_volume": 2809368,
+		"created": "2017-07-14T16:05:27.473Z",
+		"updated": "2017-07-14T16:05:27.473Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 356,
+	"fields": {
+		"stock_id": 3,
+		"stock_date": "2017-03-07T00:00:00Z",
+		"stock_open": "6.75",
+		"stock_high": "6.87",
+		"stock_low": "6.72",
+		"stock_close": "6.77",
+		"stock_volume": 3167781,
+		"created": "2017-07-14T16:05:27.474Z",
+		"updated": "2017-07-14T16:05:27.474Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 357,
+	"fields": {
+		"stock_id": 3,
+		"stock_date": "2017-03-06T00:00:00Z",
+		"stock_open": "6.81",
+		"stock_high": "6.86",
+		"stock_low": "6.69",
+		"stock_close": "6.76",
+		"stock_volume": 6234580,
+		"created": "2017-07-14T16:05:27.475Z",
+		"updated": "2017-07-14T16:05:27.475Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 358,
+	"fields": {
+		"stock_id": 3,
+		"stock_date": "2017-03-03T00:00:00Z",
+		"stock_open": "6.90",
+		"stock_high": "6.99",
+		"stock_low": "6.81",
+		"stock_close": "6.88",
+		"stock_volume": 3198461,
+		"created": "2017-07-14T16:05:27.476Z",
+		"updated": "2017-07-14T16:05:27.476Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 359,
+	"fields": {
+		"stock_id": 3,
+		"stock_date": "2017-03-02T00:00:00Z",
+		"stock_open": "6.89",
+		"stock_high": "7.01",
+		"stock_low": "6.88",
+		"stock_close": "6.89",
+		"stock_volume": 5221190,
+		"created": "2017-07-14T16:05:27.477Z",
+		"updated": "2017-07-14T16:05:27.477Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 360,
+	"fields": {
+		"stock_id": 3,
+		"stock_date": "2017-03-01T00:00:00Z",
+		"stock_open": "7.00",
+		"stock_high": "7.01",
+		"stock_low": "6.89",
+		"stock_close": "6.89",
+		"stock_volume": 7049047,
+		"created": "2017-07-14T16:05:27.478Z",
+		"updated": "2017-07-14T16:05:27.478Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 361,
+	"fields": {
+		"stock_id": 3,
+		"stock_date": "2017-02-28T00:00:00Z",
+		"stock_open": "7.10",
+		"stock_high": "7.11",
+		"stock_low": "6.93",
+		"stock_close": "6.96",
+		"stock_volume": 8271951,
+		"created": "2017-07-14T16:05:27.479Z",
+		"updated": "2017-07-14T16:05:27.479Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 362,
+	"fields": {
+		"stock_id": 3,
+		"stock_date": "2017-02-27T00:00:00Z",
+		"stock_open": "7.10",
+		"stock_high": "7.12",
+		"stock_low": "6.99",
+		"stock_close": "7.10",
+		"stock_volume": 6759407,
+		"created": "2017-07-14T16:05:27.480Z",
+		"updated": "2017-07-14T16:05:27.480Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 363,
+	"fields": {
+		"stock_id": 3,
+		"stock_date": "2017-02-24T00:00:00Z",
+		"stock_open": "7.15",
+		"stock_high": "7.16",
+		"stock_low": "7.04",
+		"stock_close": "7.08",
+		"stock_volume": 2544506,
+		"created": "2017-07-14T16:05:27.481Z",
+		"updated": "2017-07-14T16:05:27.481Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 364,
+	"fields": {
+		"stock_id": 3,
+		"stock_date": "2017-02-23T00:00:00Z",
+		"stock_open": "7.27",
+		"stock_high": "7.29",
+		"stock_low": "7.15",
+		"stock_close": "7.16",
+		"stock_volume": 1648528,
+		"created": "2017-07-14T16:05:27.482Z",
+		"updated": "2017-07-14T16:05:27.482Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 365,
+	"fields": {
+		"stock_id": 3,
+		"stock_date": "2017-02-22T00:00:00Z",
+		"stock_open": "7.28",
+		"stock_high": "7.34",
+		"stock_low": "7.20",
+		"stock_close": "7.24",
+		"stock_volume": 2230376,
+		"created": "2017-07-14T16:05:27.483Z",
+		"updated": "2017-07-14T16:05:27.483Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 366,
+	"fields": {
+		"stock_id": 3,
+		"stock_date": "2017-02-21T00:00:00Z",
+		"stock_open": "7.46",
+		"stock_high": "7.52",
+		"stock_low": "7.29",
+		"stock_close": "7.32",
+		"stock_volume": 4387507,
+		"created": "2017-07-14T16:05:27.484Z",
+		"updated": "2017-07-14T16:05:27.484Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 367,
+	"fields": {
+		"stock_id": 3,
+		"stock_date": "2017-02-17T00:00:00Z",
+		"stock_open": "7.29",
+		"stock_high": "7.50",
+		"stock_low": "7.26",
+		"stock_close": "7.49",
+		"stock_volume": 4072245,
+		"created": "2017-07-14T16:05:27.485Z",
+		"updated": "2017-07-14T16:05:27.485Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 368,
+	"fields": {
+		"stock_id": 3,
+		"stock_date": "2017-02-16T00:00:00Z",
+		"stock_open": "7.40",
+		"stock_high": "7.43",
+		"stock_low": "7.35",
+		"stock_close": "7.35",
+		"stock_volume": 2784321,
+		"created": "2017-07-14T16:05:27.486Z",
+		"updated": "2017-07-14T16:05:27.486Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 369,
+	"fields": {
+		"stock_id": 3,
+		"stock_date": "2017-02-15T00:00:00Z",
+		"stock_open": "7.31",
+		"stock_high": "7.44",
+		"stock_low": "7.31",
+		"stock_close": "7.40",
+		"stock_volume": 2411197,
+		"created": "2017-07-14T16:05:27.487Z",
+		"updated": "2017-07-14T16:05:27.487Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 370,
+	"fields": {
+		"stock_id": 3,
+		"stock_date": "2017-02-14T00:00:00Z",
+		"stock_open": "7.39",
+		"stock_high": "7.39",
+		"stock_low": "7.31",
+		"stock_close": "7.35",
+		"stock_volume": 1454332,
+		"created": "2017-07-14T16:05:27.488Z",
+		"updated": "2017-07-14T16:05:27.488Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 371,
+	"fields": {
+		"stock_id": 3,
+		"stock_date": "2017-02-13T00:00:00Z",
+		"stock_open": "7.39",
+		"stock_high": "7.47",
+		"stock_low": "7.35",
+		"stock_close": "7.39",
+		"stock_volume": 2194611,
+		"created": "2017-07-14T16:05:27.489Z",
+		"updated": "2017-07-14T16:05:27.489Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 372,
+	"fields": {
+		"stock_id": 3,
+		"stock_date": "2017-02-10T00:00:00Z",
+		"stock_open": "7.30",
+		"stock_high": "7.39",
+		"stock_low": "7.28",
+		"stock_close": "7.38",
+		"stock_volume": 2346042,
+		"created": "2017-07-14T16:05:27.490Z",
+		"updated": "2017-07-14T16:05:27.490Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 373,
+	"fields": {
+		"stock_id": 3,
+		"stock_date": "2017-02-09T00:00:00Z",
+		"stock_open": "7.32",
+		"stock_high": "7.34",
+		"stock_low": "7.25",
+		"stock_close": "7.30",
+		"stock_volume": 2818342,
+		"created": "2017-07-14T16:05:27.491Z",
+		"updated": "2017-07-14T16:05:27.491Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 374,
+	"fields": {
+		"stock_id": 3,
+		"stock_date": "2017-02-08T00:00:00Z",
+		"stock_open": "7.18",
+		"stock_high": "7.31",
+		"stock_low": "7.12",
+		"stock_close": "7.23",
+		"stock_volume": 4354628,
+		"created": "2017-07-14T16:05:27.492Z",
+		"updated": "2017-07-14T16:05:27.492Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 375,
+	"fields": {
+		"stock_id": 3,
+		"stock_date": "2017-02-07T00:00:00Z",
+		"stock_open": "7.01",
+		"stock_high": "7.15",
+		"stock_low": "7.01",
+		"stock_close": "7.14",
+		"stock_volume": 3216997,
+		"created": "2017-07-14T16:05:27.493Z",
+		"updated": "2017-07-14T16:05:27.493Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 376,
+	"fields": {
+		"stock_id": 3,
+		"stock_date": "2017-02-06T00:00:00Z",
+		"stock_open": "6.98",
+		"stock_high": "7.04",
+		"stock_low": "6.97",
+		"stock_close": "7.01",
+		"stock_volume": 2392656,
+		"created": "2017-07-14T16:05:27.494Z",
+		"updated": "2017-07-14T16:05:27.494Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 377,
+	"fields": {
+		"stock_id": 3,
+		"stock_date": "2017-02-03T00:00:00Z",
+		"stock_open": "6.98",
+		"stock_high": "7.06",
+		"stock_low": "6.96",
+		"stock_close": "7.00",
+		"stock_volume": 2654005,
+		"created": "2017-07-14T16:05:27.495Z",
+		"updated": "2017-07-14T16:05:27.495Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 378,
+	"fields": {
+		"stock_id": 3,
+		"stock_date": "2017-02-02T00:00:00Z",
+		"stock_open": "6.98",
+		"stock_high": "7.08",
+		"stock_low": "6.97",
+		"stock_close": "7.00",
+		"stock_volume": 3013249,
+		"created": "2017-07-14T16:05:27.512Z",
+		"updated": "2017-07-14T16:05:27.512Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 379,
+	"fields": {
+		"stock_id": 3,
+		"stock_date": "2017-02-01T00:00:00Z",
+		"stock_open": "7.08",
+		"stock_high": "7.08",
+		"stock_low": "7.00",
+		"stock_close": "7.00",
+		"stock_volume": 3431131,
+		"created": "2017-07-14T16:05:27.513Z",
+		"updated": "2017-07-14T16:05:27.513Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 380,
+	"fields": {
+		"stock_id": 3,
+		"stock_date": "2017-01-31T00:00:00Z",
+		"stock_open": "7.05",
+		"stock_high": "7.11",
+		"stock_low": "6.98",
+		"stock_close": "7.06",
+		"stock_volume": 3452267,
+		"created": "2017-07-14T16:05:27.514Z",
+		"updated": "2017-07-14T16:05:27.514Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 381,
+	"fields": {
+		"stock_id": 3,
+		"stock_date": "2017-01-30T00:00:00Z",
+		"stock_open": "7.19",
+		"stock_high": "7.22",
+		"stock_low": "6.99",
+		"stock_close": "7.05",
+		"stock_volume": 4134979,
+		"created": "2017-07-14T16:05:27.515Z",
+		"updated": "2017-07-14T16:05:27.515Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 382,
+	"fields": {
+		"stock_id": 3,
+		"stock_date": "2017-01-27T00:00:00Z",
+		"stock_open": "7.31",
+		"stock_high": "7.35",
+		"stock_low": "7.19",
+		"stock_close": "7.19",
+		"stock_volume": 2121436,
+		"created": "2017-07-14T16:05:27.516Z",
+		"updated": "2017-07-14T16:05:27.516Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 383,
+	"fields": {
+		"stock_id": 3,
+		"stock_date": "2017-01-26T00:00:00Z",
+		"stock_open": "7.30",
+		"stock_high": "7.35",
+		"stock_low": "7.24",
+		"stock_close": "7.31",
+		"stock_volume": 2328028,
+		"created": "2017-07-14T16:05:27.517Z",
+		"updated": "2017-07-14T16:05:27.517Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 384,
+	"fields": {
+		"stock_id": 3,
+		"stock_date": "2017-01-25T00:00:00Z",
+		"stock_open": "7.24",
+		"stock_high": "7.33",
+		"stock_low": "7.24",
+		"stock_close": "7.32",
+		"stock_volume": 3774745,
+		"created": "2017-07-14T16:05:27.518Z",
+		"updated": "2017-07-14T16:05:27.518Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 385,
+	"fields": {
+		"stock_id": 3,
+		"stock_date": "2017-01-24T00:00:00Z",
+		"stock_open": "7.13",
+		"stock_high": "7.24",
+		"stock_low": "7.12",
+		"stock_close": "7.21",
+		"stock_volume": 2790357,
+		"created": "2017-07-14T16:05:27.519Z",
+		"updated": "2017-07-14T16:05:27.519Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 386,
+	"fields": {
+		"stock_id": 3,
+		"stock_date": "2017-01-23T00:00:00Z",
+		"stock_open": "7.10",
+		"stock_high": "7.14",
+		"stock_low": "7.02",
+		"stock_close": "7.13",
+		"stock_volume": 2094109,
+		"created": "2017-07-14T16:05:27.520Z",
+		"updated": "2017-07-14T16:05:27.520Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 387,
+	"fields": {
+		"stock_id": 3,
+		"stock_date": "2017-01-20T00:00:00Z",
+		"stock_open": "7.11",
+		"stock_high": "7.22",
+		"stock_low": "7.10",
+		"stock_close": "7.13",
+		"stock_volume": 2073894,
+		"created": "2017-07-14T16:05:27.521Z",
+		"updated": "2017-07-14T16:05:27.521Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 388,
+	"fields": {
+		"stock_id": 3,
+		"stock_date": "2017-01-19T00:00:00Z",
+		"stock_open": "7.13",
+		"stock_high": "7.28",
+		"stock_low": "7.09",
+		"stock_close": "7.10",
+		"stock_volume": 4403937,
+		"created": "2017-07-14T16:05:27.522Z",
+		"updated": "2017-07-14T16:05:27.522Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 389,
+	"fields": {
+		"stock_id": 3,
+		"stock_date": "2017-01-18T00:00:00Z",
+		"stock_open": "7.11",
+		"stock_high": "7.22",
+		"stock_low": "7.11",
+		"stock_close": "7.21",
+		"stock_volume": 3149397,
+		"created": "2017-07-14T16:05:27.523Z",
+		"updated": "2017-07-14T16:05:27.523Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 390,
+	"fields": {
+		"stock_id": 3,
+		"stock_date": "2017-01-17T00:00:00Z",
+		"stock_open": "7.30",
+		"stock_high": "7.30",
+		"stock_low": "7.13",
+		"stock_close": "7.16",
+		"stock_volume": 3401218,
+		"created": "2017-07-14T16:05:27.524Z",
+		"updated": "2017-07-14T16:05:27.524Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 391,
+	"fields": {
+		"stock_id": 3,
+		"stock_date": "2017-01-13T00:00:00Z",
+		"stock_open": "7.22",
+		"stock_high": "7.35",
+		"stock_low": "7.21",
+		"stock_close": "7.27",
+		"stock_volume": 2803705,
+		"created": "2017-07-14T16:05:27.525Z",
+		"updated": "2017-07-14T16:05:27.525Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 392,
+	"fields": {
+		"stock_id": 3,
+		"stock_date": "2017-01-12T00:00:00Z",
+		"stock_open": "7.21",
+		"stock_high": "7.25",
+		"stock_low": "7.10",
+		"stock_close": "7.23",
+		"stock_volume": 3030235,
+		"created": "2017-07-14T16:05:27.526Z",
+		"updated": "2017-07-14T16:05:27.526Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 393,
+	"fields": {
+		"stock_id": 3,
+		"stock_date": "2017-01-11T00:00:00Z",
+		"stock_open": "7.15",
+		"stock_high": "7.24",
+		"stock_low": "7.09",
+		"stock_close": "7.22",
+		"stock_volume": 2999805,
+		"created": "2017-07-14T16:05:27.527Z",
+		"updated": "2017-07-14T16:05:27.527Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 394,
+	"fields": {
+		"stock_id": 3,
+		"stock_date": "2017-01-10T00:00:00Z",
+		"stock_open": "7.16",
+		"stock_high": "7.20",
+		"stock_low": "7.10",
+		"stock_close": "7.12",
+		"stock_volume": 2137015,
+		"created": "2017-07-14T16:05:27.528Z",
+		"updated": "2017-07-14T16:05:27.528Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 395,
+	"fields": {
+		"stock_id": 3,
+		"stock_date": "2017-01-09T00:00:00Z",
+		"stock_open": "7.15",
+		"stock_high": "7.19",
+		"stock_low": "7.07",
+		"stock_close": "7.12",
+		"stock_volume": 2898505,
+		"created": "2017-07-14T16:05:27.529Z",
+		"updated": "2017-07-14T16:05:27.529Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 396,
+	"fields": {
+		"stock_id": 3,
+		"stock_date": "2017-01-06T00:00:00Z",
+		"stock_open": "7.11",
+		"stock_high": "7.16",
+		"stock_low": "7.04",
+		"stock_close": "7.16",
+		"stock_volume": 3897998,
+		"created": "2017-07-14T16:05:27.530Z",
+		"updated": "2017-07-14T16:05:27.530Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 397,
+	"fields": {
+		"stock_id": 3,
+		"stock_date": "2017-01-05T00:00:00Z",
+		"stock_open": "7.13",
+		"stock_high": "7.24",
+		"stock_low": "7.09",
+		"stock_close": "7.12",
+		"stock_volume": 3259366,
+		"created": "2017-07-14T16:05:27.531Z",
+		"updated": "2017-07-14T16:05:27.531Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 398,
+	"fields": {
+		"stock_id": 3,
+		"stock_date": "2017-01-04T00:00:00Z",
+		"stock_open": "7.04",
+		"stock_high": "7.15",
+		"stock_low": "7.00",
+		"stock_close": "7.11",
+		"stock_volume": 4256064,
+		"created": "2017-07-14T16:05:27.532Z",
+		"updated": "2017-07-14T16:05:27.532Z"
+	}
+}, {
+	"model": "analysis.stockprices",
+	"pk": 399,
+	"fields": {
+		"stock_id": 3,
+		"stock_date": "2017-01-03T00:00:00Z",
+		"stock_open": "6.93",
+		"stock_high": "7.01",
+		"stock_low": "6.86",
+		"stock_close": "6.96",
+		"stock_volume": 4902996,
+		"created": "2017-07-14T16:05:27.533Z",
+		"updated": "2017-07-14T16:05:27.533Z"
+	}
+}, {
+	"model": "contenttypes.contenttype",
+	"pk": 1,
+	"fields": {
+		"app_label": "admin",
+		"model": "logentry"
+	}
+}, {
+	"model": "contenttypes.contenttype",
+	"pk": 2,
+	"fields": {
+		"app_label": "auth",
+		"model": "group"
+	}
+}, {
+	"model": "contenttypes.contenttype",
+	"pk": 3,
+	"fields": {
+		"app_label": "auth",
+		"model": "permission"
+	}
+}, {
+	"model": "contenttypes.contenttype",
+	"pk": 4,
+	"fields": {
+		"app_label": "auth",
+		"model": "user"
+	}
+}, {
+	"model": "contenttypes.contenttype",
+	"pk": 5,
+	"fields": {
+		"app_label": "contenttypes",
+		"model": "contenttype"
+	}
+}, {
+	"model": "contenttypes.contenttype",
+	"pk": 6,
+	"fields": {
+		"app_label": "sessions",
+		"model": "session"
+	}
+}, {
+	"model": "contenttypes.contenttype",
+	"pk": 7,
+	"fields": {
+		"app_label": "analysis",
+		"model": "stockname"
+	}
+}, {
+	"model": "contenttypes.contenttype",
+	"pk": 8,
+	"fields": {
+		"app_label": "analysis",
+		"model": "stockprices"
+	}
+}, {
+	"model": "sessions.session",
+	"pk": "kjtyhoyulsg57jzhblln1572pjp5z55t",
+	"fields": {
+		"session_data": "MDgzMTNkNzQzOGRmY2JmMzNmMTk1OTc1NzUxNGZmMTJiZWRkYWU1Yjp7Il9hdXRoX3VzZXJfaGFzaCI6IjI5MmRmZDk4YTI5N2FlNjgzOGU1NmIwY2Q5ZjBmN2NjMmM2ZDExNGMiLCJfYXV0aF91c2VyX2JhY2tlbmQiOiJkamFuZ28uY29udHJpYi5hdXRoLmJhY2tlbmRzLk1vZGVsQmFja2VuZCIsIl9hdXRoX3VzZXJfaWQiOiIxIn0=",
+		"expire_date": "2017-07-28T16:05:57.318Z"
+	}
+}, {
+	"model": "auth.permission",
+	"pk": 1,
+	"fields": {
+		"name": "Can add log entry",
+		"content_type": 1,
+		"codename": "add_logentry"
+	}
+}, {
+	"model": "auth.permission",
+	"pk": 2,
+	"fields": {
+		"name": "Can change log entry",
+		"content_type": 1,
+		"codename": "change_logentry"
+	}
+}, {
+	"model": "auth.permission",
+	"pk": 3,
+	"fields": {
+		"name": "Can delete log entry",
+		"content_type": 1,
+		"codename": "delete_logentry"
+	}
+}, {
+	"model": "auth.permission",
+	"pk": 4,
+	"fields": {
+		"name": "Can add group",
+		"content_type": 2,
+		"codename": "add_group"
+	}
+}, {
+	"model": "auth.permission",
+	"pk": 5,
+	"fields": {
+		"name": "Can change group",
+		"content_type": 2,
+		"codename": "change_group"
+	}
+}, {
+	"model": "auth.permission",
+	"pk": 6,
+	"fields": {
+		"name": "Can delete group",
+		"content_type": 2,
+		"codename": "delete_group"
+	}
+}, {
+	"model": "auth.permission",
+	"pk": 7,
+	"fields": {
+		"name": "Can add permission",
+		"content_type": 3,
+		"codename": "add_permission"
+	}
+}, {
+	"model": "auth.permission",
+	"pk": 8,
+	"fields": {
+		"name": "Can change permission",
+		"content_type": 3,
+		"codename": "change_permission"
+	}
+}, {
+	"model": "auth.permission",
+	"pk": 9,
+	"fields": {
+		"name": "Can delete permission",
+		"content_type": 3,
+		"codename": "delete_permission"
+	}
+}, {
+	"model": "auth.permission",
+	"pk": 10,
+	"fields": {
+		"name": "Can add user",
+		"content_type": 4,
+		"codename": "add_user"
+	}
+}, {
+	"model": "auth.permission",
+	"pk": 11,
+	"fields": {
+		"name": "Can change user",
+		"content_type": 4,
+		"codename": "change_user"
+	}
+}, {
+	"model": "auth.permission",
+	"pk": 12,
+	"fields": {
+		"name": "Can delete user",
+		"content_type": 4,
+		"codename": "delete_user"
+	}
+}, {
+	"model": "auth.permission",
+	"pk": 13,
+	"fields": {
+		"name": "Can add content type",
+		"content_type": 5,
+		"codename": "add_contenttype"
+	}
+}, {
+	"model": "auth.permission",
+	"pk": 14,
+	"fields": {
+		"name": "Can change content type",
+		"content_type": 5,
+		"codename": "change_contenttype"
+	}
+}, {
+	"model": "auth.permission",
+	"pk": 15,
+	"fields": {
+		"name": "Can delete content type",
+		"content_type": 5,
+		"codename": "delete_contenttype"
+	}
+}, {
+	"model": "auth.permission",
+	"pk": 16,
+	"fields": {
+		"name": "Can add session",
+		"content_type": 6,
+		"codename": "add_session"
+	}
+}, {
+	"model": "auth.permission",
+	"pk": 17,
+	"fields": {
+		"name": "Can change session",
+		"content_type": 6,
+		"codename": "change_session"
+	}
+}, {
+	"model": "auth.permission",
+	"pk": 18,
+	"fields": {
+		"name": "Can delete session",
+		"content_type": 6,
+		"codename": "delete_session"
+	}
+}, {
+	"model": "auth.permission",
+	"pk": 19,
+	"fields": {
+		"name": "Can add stock name",
+		"content_type": 7,
+		"codename": "add_stockname"
+	}
+}, {
+	"model": "auth.permission",
+	"pk": 20,
+	"fields": {
+		"name": "Can change stock name",
+		"content_type": 7,
+		"codename": "change_stockname"
+	}
+}, {
+	"model": "auth.permission",
+	"pk": 21,
+	"fields": {
+		"name": "Can delete stock name",
+		"content_type": 7,
+		"codename": "delete_stockname"
+	}
+}, {
+	"model": "auth.permission",
+	"pk": 22,
+	"fields": {
+		"name": "Can add stock prices",
+		"content_type": 8,
+		"codename": "add_stockprices"
+	}
+}, {
+	"model": "auth.permission",
+	"pk": 23,
+	"fields": {
+		"name": "Can change stock prices",
+		"content_type": 8,
+		"codename": "change_stockprices"
+	}
+}, {
+	"model": "auth.permission",
+	"pk": 24,
+	"fields": {
+		"name": "Can delete stock prices",
+		"content_type": 8,
+		"codename": "delete_stockprices"
+	}
+}, {
+	"model": "auth.user",
+	"pk": 1,
+	"fields": {
+		"password": "pbkdf2_sha256$36000$heQpkfl0MuOj$Ay1/Jr3MgKyRiwnvqWPlzqtDi1Al1VnOr07g2+FxLQc=",
+		"last_login": "2017-07-14T16:05:57.215Z",
+		"is_superuser": true,
+		"username": "admin",
+		"first_name": "",
+		"last_name": "",
+		"email": "admin@gmail.com",
+		"is_staff": true,
+		"is_active": true,
+		"date_joined": "2017-07-14T16:05:07.319Z",
+		"groups": [],
+		"user_permissions": []
+	}
+}]
